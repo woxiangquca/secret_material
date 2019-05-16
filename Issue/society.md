@@ -9,10 +9,11 @@ society
 
     1 great nation established by powerful leader often sacrifice the well-being of ordinary people
 1.1 **Egypt**  
-make great contribution to civilization of the world, but it is based on the miserable life of hun 
-1.2
+make great contribution to civilization of the world, but it is based on the miserable life of hundreds of slaves 
+1.2 **Soviet Union**
+defeat Nazi, end the war. while it 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA3MDM2NTgsNDkxODAzMzQwLC03NT
+eyJoaXN0b3J5IjpbLTE1NDQ2NjIyMTcsNDkxODAzMzQwLC03NT
 A3MTM4NDhdfQ==
 -->
