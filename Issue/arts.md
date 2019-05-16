@@ -35,7 +35,7 @@ boost cultural diversity, no communication
 -----------------------  
 >80  
 >**Nations should suspend government funding for the arts when significant numbers of their citizens are hungry or unemployed.**  
->88
+>88  
 >**Claim: Nations should suspend government funding for the arts when significant numbers of their citizens are hungry or unemployed.  
 Reason: It is inappropriate—and, perhaps, even cruel—to use public resources to fund the arts when people's basic needs are not being met.**    
 ## position: disagree
@@ -58,7 +58,7 @@ fund -> get every children equality to learn arts -> help find talented students
 just arrange propoerly and give it less funding instead of cutting it down
 3.1.2 the poverty result from uneven distribution of resources, ex. racial, social class, gender -> education, status, if we dont eradicate these, the poor will always be poor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODY3Njc2NCwtMzY3NTc4NzAsLTEyNT
+eyJoaXN0b3J5IjpbMTQxNzM4MDY0NCwtMzY3NTc4NzAsLTEyNT
 IzNDU4NDUsLTEyNTgyNTMxODYsLTE2NzU4OTEyMDIsLTg5OTQy
 MzE3MV19
 -->
