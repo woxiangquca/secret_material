@@ -52,8 +52,10 @@ no fund -> individual buyer may collect as personal collection -> some artcraft 
 3.1
 **pos:** if basic need can not be satisfied, no one will go to museum  
 **neg:** it may be true, but 
-3.1 if we follow this, everything apart from basic need should be halted, science, environment 
+3.1.1 if we follow this, everything apart from basic need should be halted, acedemic, environment-conservation,entertainment, obviously not true
+just arrange propoerly and give it less funding instead of cutting it down
+3.1.2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5ODUwNDEzLC0xMjU4MjUzMTg2LC0xNj
-c1ODkxMjAyLC04OTk0MjMxNzFdfQ==
+eyJoaXN0b3J5IjpbMTI1NDA3MjQ2NywtMTI1ODI1MzE4NiwtMT
+Y3NTg5MTIwMiwtODk5NDIzMTcxXX0=
 -->
