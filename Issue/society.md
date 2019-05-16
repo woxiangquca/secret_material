@@ -7,9 +7,9 @@ society
 
 ## position: generally by the achievements of its rulers, artists, or scientists
 
-    1 grea
+    1 great nation 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2MTI4OTc5LDQ5MTgwMzM0MCwtNzUwNz
-EzODQ4XX0=
+eyJoaXN0b3J5IjpbLTE0Nzk1NTg1MTAsNDkxODAzMzQwLC03NT
+A3MTM4NDhdfQ==
 -->
