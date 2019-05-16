@@ -45,9 +45,9 @@ Reason: It is inappropriate—and, perhaps, even cruel—to use public resources
 
     2 neg: the benefit of funding2: keep society stable
 2.1 **museum**
-no fund -> individual buyer may collect as personal collection -> some artcraft such as calligraphy and painting from the ancient is at a premium -> gain unjustified profit and 
+no fund -> individual buyer may collect as personal collection -> some artcraft such as calligraphy and painting from the ancient is at a premium -> gain unjustified profit and make them unavailable to the mass
 2.2 **art school**
-
+fund -> get every children equality to learn arts -> help find talented students/ help poor children realize their dream -> social equalty
 
     3 neg: art is not to blame for the poor
 3.1
@@ -57,6 +57,6 @@ no fund -> individual buyer may collect as personal collection -> some artcraft 
 just arrange propoerly and give it less funding instead of cutting it down
 3.1.2 the poverty result from uneven distribution of resources, ex. racial, social class, gender -> education, status, if we dont eradicate these, the poor will always be poor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk1Mzg1NDk1LC0xMjUyMzQ1ODQ1LC0xMj
-U4MjUzMTg2LC0xNjc1ODkxMjAyLC04OTk0MjMxNzFdfQ==
+eyJoaXN0b3J5IjpbLTEyMzQxNTYxNzEsLTEyNTIzNDU4NDUsLT
+EyNTgyNTMxODYsLTE2NzU4OTEyMDIsLTg5OTQyMzE3MV19
 -->
