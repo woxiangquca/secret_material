@@ -7,9 +7,9 @@ society
 
 ## position: generally by the achievements of its rulers, artists, or scientists
 
-    1 pos:only rulers,leaders cannot be considered a great nat
+    1 grea
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDU3ODA1OCw0OTE4MDMzNDAsLTc1MD
-cxMzg0OF19
+eyJoaXN0b3J5IjpbMzc2MTI4OTc5LDQ5MTgwMzM0MCwtNzUwNz
+EzODQ4XX0=
 -->
