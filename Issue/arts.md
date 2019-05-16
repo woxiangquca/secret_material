@@ -45,11 +45,14 @@ Reason: It is inappropriate—and, perhaps, even cruel—to use public resources
     2 neg: the benefit of funding
 2.1 **museum**
 no fund -> individual buyer may collect as personal collection -> some artcraft such as calligraphy and painting from the ancient is at a premium -> gain unjustified profit and 
+2.2 **diversity**
+
 
     3 neg: art is not to blame for the poor
 3.1
-**pos:**  
+**pos:** if basic need can not be satisfied, no one will go to museum  
+**neg:** it may be true, but
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODIxNjEwMywtMTI1ODI1MzE4NiwtMT
+eyJoaXN0b3J5IjpbMTM2NDI2OTMyMSwtMTI1ODI1MzE4NiwtMT
 Y3NTg5MTIwMiwtODk5NDIzMTcxXX0=
 -->
