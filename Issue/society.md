@@ -14,10 +14,11 @@ make great contribution to civilization of the world, but it is based on the mis
 defeat Nazi, end the war. while it force man in country to  fulfill mandatory military service/ use money to develop advanced weapon, neglect their people is starving
 
     2 leader is powerful that can improve people's welfare
-2.1 **museum**
+2.1 **safe need**
+2.2 ****
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzE0MTY0MDAsLTE1NDQ2NjIyMTcsND
-kxODAzMzQwLC03NTA3MTM4NDhdfQ==
+eyJoaXN0b3J5IjpbLTE0MDkyNSwtMTU0NDY2MjIxNyw0OTE4MD
+MzNDAsLTc1MDcxMzg0OF19
 -->
