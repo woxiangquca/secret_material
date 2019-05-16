@@ -54,8 +54,8 @@ no fund -> individual buyer may collect as personal collection -> some artcraft 
 **neg:** it may be true, but 
 3.1.1 if we follow this, everything apart from basic need should be halted, acedemic, environment-conservation,entertainment, obviously not true
 just arrange propoerly and give it less funding instead of cutting it down
-3.1.2
+3.1.2 the poverty result from uneven distribution of resources, ex. racial, social class, gender -> education, status, if we dont eradicate these, the poor will always be poor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDA3MjQ2NywtMTI1ODI1MzE4NiwtMT
+eyJoaXN0b3J5IjpbMTc5NjA1ODc1MSwtMTI1ODI1MzE4NiwtMT
 Y3NTg5MTIwMiwtODk5NDIzMTcxXX0=
 -->
