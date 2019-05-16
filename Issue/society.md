@@ -8,9 +8,11 @@ society
 ## position: generally by the achievements of its rulers, artists, or scientists
 
     1 great nation established by powerful leader often sacrifice the well-being of ordinary people
-1.1 ****
+1.1 **Egypt**  
+make great contribution to civilization of the world, but it is based on the miserable life of hun 
+1.2
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjMyODIwNCw0OTE4MDMzNDAsLTc1MD
-cxMzg0OF19
+eyJoaXN0b3J5IjpbLTE2OTA3MDM2NTgsNDkxODAzMzQwLC03NT
+A3MTM4NDhdfQ==
 -->
