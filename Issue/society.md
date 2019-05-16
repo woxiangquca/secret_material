@@ -16,15 +16,17 @@ defeat Nazi, end the war. while it force man in country to  fulfill mandatory mi
     2 leader is powerful that can improve people's welfare
 2.1 **safety/physiological need**
 2.1.1 **military power** 
+keep safe and not be killed by others/ safegaurd our daily safe
 2.1.2 **finacial policy**
+control inflation, price
 2.2 **love and belonging need**
 2.2.1 **museum**
-
+cutural
 2.2.2 **education** 
 prepare student for skills/ reduce empolyment/ get them to have their own circle
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NzU0ODY1OSwtMTU0NDY2MjIxNyw0OT
+eyJoaXN0b3J5IjpbLTE4NTg4OTg3NiwtMTU0NDY2MjIxNyw0OT
 E4MDMzNDAsLTc1MDcxMzg0OF19
 -->
