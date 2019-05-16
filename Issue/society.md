@@ -20,12 +20,12 @@ no science -> no weapons -> not be able to defend ourselves(china nuclear bomb)
 art -> spiritual need -> museum, concert -> broaden our horizon/expericence exotic culture/know more about the world/feel the world/let off steam -> otherwise people is nerd adn stressed out
 
     3 (让步) elite politics cannot make the country great if there are severe stratification
-3.1 **the gap between the rich and the poor**
-
+3.1 **living condition**
+3.1.1 Asian country like india,
 3.2 **political status, elite politics**
-3.2.1 middle afraican women be centered at home
+3.2.1 middle afraican women be centered at home, no political rights at all.
 3.2.2 american politics, the wealth can control the election
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTE4NzcxNzEsLTE1NDQ2NjIyMTcsND
-kxODAzMzQwLC03NTA3MTM4NDhdfQ==
+eyJoaXN0b3J5IjpbLTUxMzc2NzA5LC0xNTQ0NjYyMjE3LDQ5MT
+gwMzM0MCwtNzUwNzEzODQ4XX0=
 -->
