@@ -15,7 +15,7 @@ defeat Nazi, end the war. while it force man in country to  fulfill mandatory mi
 
     2 leader is powerful that can improve people's welfare
 2.1 **science**  
-no science -> no weapons -> not be able to defend ourselves(china nuclear bomb)  -> be passive in 
+no science -> no weapons -> not be able to defend ourselves(china nuclear bomb)  -> be passive in internation relations and game
 2.2 **artist**  
 art -> spiritual need -> museum, concert -> broaden our horizon/expericence exotic culture/know more about the world/feel the world/let off steam -> otherwise people is nerd adn stressed out
 
@@ -26,6 +26,6 @@ art -> spiritual need -> museum, concert -> broaden our horizon/expericence exot
 3.2.1 middle afraican women be centered at home, no political rights at all.  
 3.2.2 american politics, the wealth can control the election
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTk4MDg0NTEsLTE5MjU4NDk5NTVdfQ
+eyJoaXN0b3J5IjpbLTE4ODYzNjc1ODgsLTE5MjU4NDk5NTVdfQ
 ==
 -->
