@@ -13,10 +13,11 @@ make great contribution to civilization of the world, but it is based on the mis
 1.2 **Soviet Union**
 defeat Nazi, end the war. while it force man in country to  fulfill mandatory military service/ use money to develop advanced weapon, neglect their people is starving
 
-    2 leader is powerful that can imporve
+    2 leader is powerful that can improve people's welfare
+2.1 **museum**
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI2Nzg3Nzg0LC0xNTQ0NjYyMjE3LDQ5MT
-gwMzM0MCwtNzUwNzEzODQ4XX0=
+eyJoaXN0b3J5IjpbLTE1MzE0MTY0MDAsLTE1NDQ2NjIyMTcsND
+kxODAzMzQwLC03NTA3MTM4NDhdfQ==
 -->
