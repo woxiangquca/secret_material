@@ -10,22 +10,21 @@ society
     1 great nation established by powerful leader often sacrifice the well-being of ordinary people
 1.1 **Egypt**  
 make great contribution to civilization of the world, but it is based on the miserable life of hundreds of slaves 
-1.2 **Soviet Union**
-defeat Nazi, end the war. while it force man in country to  fulfill mandatory military service/ use money to develop advanced weapon, neglect their people is starving
+1.2 **Soviet Union**  
+defeat Nazi, end the war. while it force man in country to  fulfill mandatory military service/ use money to develop advanced weapon, neglect their people is starving  
 
     2 leader is powerful that can improve people's welfare
-2.1 **science**
-no science -> no weapons -> not be able to defend ourselves(china nuclear bomb)
-2.2 **artist**
+2.1 **science**  
+no science -> no weapons -> not be able to defend ourselves(china nuclear bomb)  
+2.2 **artist**  
 art -> spiritual need -> museum, concert -> broaden our horizon/expericence exotic culture/know more about the world/feel the world/let off steam -> otherwise people is nerd adn stressed out
 
     3 (让步) elite politics cannot make the country great if there are severe stratification
-3.1 **living condition**
-3.1.1 Asian country like india
-3.2 **political status**
-3.2.1 middle afraican women be centered at home, no political rights at all.
+3.1 **living condition**  
+3.1.1 Asian country like india  
+3.2 **political status**  
+3.2.1 middle afraican women be centered at home, no political rights at all.  
 3.2.2 american politics, the wealth can control the election
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjI1NTcxLC0xNTQ0NjYyMjE3LDQ5MT
-gwMzM0MCwtNzUwNzEzODQ4XX0=
+eyJoaXN0b3J5IjpbLTE5MjU4NDk5NTVdfQ==
 -->
