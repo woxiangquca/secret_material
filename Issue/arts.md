@@ -41,7 +41,10 @@ Reason: It is inappropriate—and, perhaps, even cruel—to use public resources
 ## position: disagree
     1
 1.1
+
+    2 reservation of culture
+1.2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTU5NDM5NzgsLTEyNTgyNTMxODYsLT
+eyJoaXN0b3J5IjpbLTE4MDM1NDQ1NzAsLTEyNTgyNTMxODYsLT
 E2NzU4OTEyMDIsLTg5OTQyMzE3MV19
 -->
