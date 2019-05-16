@@ -21,11 +21,11 @@ art -> spiritual need -> museum, concert -> broaden our horizon/expericence exot
 
     3 (让步) elite politics cannot make the country great if there are severe stratification
 3.1 **living condition**
-3.1.1 Asian country like india,
-3.2 **political status, elite politics**
+3.1.1 Asian country like india
+3.2 **political status**
 3.2.1 middle afraican women be centered at home, no political rights at all.
 3.2.2 american politics, the wealth can control the election
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzc2NzA5LC0xNTQ0NjYyMjE3LDQ5MT
+eyJoaXN0b3J5IjpbLTkxNjI1NTcxLC0xNTQ0NjYyMjE3LDQ5MT
 gwMzM0MCwtNzUwNzEzODQ4XX0=
 -->
