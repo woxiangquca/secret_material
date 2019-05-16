@@ -15,13 +15,13 @@ defeat Nazi, end the war. while it force man in country to  fulfill mandatory mi
 
     2 leader is powerful that can improve people's welfare
 2.1 **science**
-
+no science -> no weapons -> not be able to defend ourselves(china nuclear bomb)
 2.2 **artist**
-
+art -> spiritual need -> museum, concert -> feel the world/let off s
 
     3
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2Njk1OTg0LC0xNTQ0NjYyMjE3LDQ5MT
-gwMzM0MCwtNzUwNzEzODQ4XX0=
+eyJoaXN0b3J5IjpbLTczOTY3OTMyNiwtMTU0NDY2MjIxNyw0OT
+E4MDMzNDAsLTc1MDcxMzg0OF19
 -->
