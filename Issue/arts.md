@@ -41,8 +41,8 @@ Reason: It is inappropriate—and, perhaps, even cruel—to use public resources
 ## position: disagree
     1 neg: the benefit of funding1: cultural
 1.1 **forbidden city** presever as a symbol/ find the truth of history
-1.2 **sushi** renowned, world reputation, enhance
-1.3
+1.2 **sushi** renowned, world reputation, strenthen national dignity, self-reliance and self-confidence
+1.3 **captain america** during the world war 2, concentration of ame
 
     2 neg: the benefit of funding2: keep society stable
 2.1 **museum**
@@ -58,6 +58,6 @@ fund -> get every children equality to learn arts -> help find talented students
 just arrange propoerly and give it less funding instead of cutting it down
 3.1.2 the poverty result from uneven distribution of resources, ex. racial, social class, gender -> education, status, if we dont eradicate these, the poor will always be poor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDAzMDQ4MDEsLTEyNTIzNDU4NDUsLT
-EyNTgyNTMxODYsLTE2NzU4OTEyMDIsLTg5OTQyMzE3MV19
+eyJoaXN0b3J5IjpbNzk3MDkwOTM5LC0xMjUyMzQ1ODQ1LC0xMj
+U4MjUzMTg2LC0xNjc1ODkxMjAyLC04OTk0MjMxNzFdfQ==
 -->
