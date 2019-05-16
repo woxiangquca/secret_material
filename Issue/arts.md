@@ -51,8 +51,9 @@ no fund -> individual buyer may collect as personal collection -> some artcraft 
     3 neg: art is not to blame for the poor
 3.1
 **pos:** if basic need can not be satisfied, no one will go to museum  
-**neg:** it may be true, but
+**neg:** it may be true, but 
+3.1 if we follow this, everything apart from basic need should be halted, science, environment 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDI2OTMyMSwtMTI1ODI1MzE4NiwtMT
-Y3NTg5MTIwMiwtODk5NDIzMTcxXX0=
+eyJoaXN0b3J5IjpbNDQ5ODUwNDEzLC0xMjU4MjUzMTg2LC0xNj
+c1ODkxMjAyLC04OTk0MjMxNzFdfQ==
 -->
