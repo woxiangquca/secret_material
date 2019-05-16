@@ -51,14 +51,14 @@ no fund -> individual buyer may collect as personal collection -> some artcraft 
 fund -> get every children equality to learn arts -> help find talented students/ help poor children realize their dream -> social equalty -> form industry -> provide jobs  
 
     3 neg: art is not to blame for the poor
-3.1
+3.1  
 **pos:** if basic need can not be satisfied, no one will go to museum   
 **neg:** it may be true, but  
 3.1.1 if we follow this, everything apart from basic need should be halted, acedemic, environment-conservation,entertainment, obviously not true
 just arrange propoerly and give it less funding instead of cutting it down  
 3.1.2 the poverty result from uneven distribution of resources, ex. racial, social class, gender -> education, status, if we dont eradicate these, the poor will always be poor  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDQ5OTk2OCwtMzY3NTc4NzAsLTEyNT
-IzNDU4NDUsLTEyNTgyNTMxODYsLTE2NzU4OTEyMDIsLTg5OTQy
-MzE3MV19
+eyJoaXN0b3J5IjpbNTkxMzA4NzM2LC0zNjc1Nzg3MCwtMTI1Mj
+M0NTg0NSwtMTI1ODI1MzE4NiwtMTY3NTg5MTIwMiwtODk5NDIz
+MTcxXX0=
 -->
