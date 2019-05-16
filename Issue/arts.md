@@ -38,9 +38,10 @@ boost cultural diversity, no communication
 >88
 >**Claim: Nations should suspend government funding for the arts when significant numbers of their citizens are hungry or unemployed.  
 Reason: It is inappropriate—and, perhaps, even cruel—to use public resources to fund the arts when people's basic needs are not being met.**    
-## position: 
+## position: disagree
     1
+1.1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTgyNTMxODYsLTE2NzU4OTEyMDIsLT
-g5OTQyMzE3MV19
+eyJoaXN0b3J5IjpbLTE3NTU5NDM5NzgsLTEyNTgyNTMxODYsLT
+E2NzU4OTEyMDIsLTg5OTQyMzE3MV19
 -->
