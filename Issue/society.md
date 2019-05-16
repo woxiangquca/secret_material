@@ -9,7 +9,7 @@ society
 
     1 great nation established by powerful leader often sacrifice the well-being of ordinary people
 1.1 **Egypt**  
-make great contribution to civilization of the world, but it is based on the miserable life of hundreds of slaves 
+make great contribution to civilization of the world, but it is based on the miserable life of hundreds of slaves  
 1.2 **Soviet Union**  
 defeat Nazi, end the war. while it force man in country to  fulfill mandatory military service/ use money to develop advanced weapon, neglect their people is starving  
 
@@ -26,5 +26,5 @@ art -> spiritual need -> museum, concert -> broaden our horizon/expericence exot
 3.2.1 middle afraican women be centered at home, no political rights at all.  
 3.2.2 american politics, the wealth can control the election
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjU4NDk5NTVdfQ==
+eyJoaXN0b3J5IjpbMTc5NTU3ODU4MSwtMTkyNTg0OTk1NV19
 -->
