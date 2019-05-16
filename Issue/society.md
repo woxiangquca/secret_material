@@ -22,9 +22,10 @@ art -> spiritual need -> museum, concert -> broaden our horizon/expericence exot
     3 (让步) elite politics cannot make the country great if there are severe stratification
 3.1 **the gap between the rich and the poor**
 
-3.2 political status, elite politics
-middle afraican women be 
+3.2 **political status, elite politics**
+3.2.1 middle afraican women be centered at home
+3.2.2 american politics, the wealth can control the election
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg2NjY5MjAsLTE1NDQ2NjIyMTcsNDkxOD
-AzMzQwLC03NTA3MTM4NDhdfQ==
+eyJoaXN0b3J5IjpbLTEzNTE4NzcxNzEsLTE1NDQ2NjIyMTcsND
+kxODAzMzQwLC03NTA3MTM4NDhdfQ==
 -->
