@@ -11,9 +11,12 @@ society
 1.1 **Egypt**  
 make great contribution to civilization of the world, but it is based on the miserable life of hundreds of slaves 
 1.2 **Soviet Union**
-defeat Nazi, end the war. while it force man in country to  fulfill mandatory military service/ use money to develop advanced
+defeat Nazi, end the war. while it force man in country to  fulfill mandatory military service/ use money to develop advanced weapon, neglect their people is starving
+
+    2 leader is powerful that can imporve
+
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NjU2MzAxNywtMTU0NDY2MjIxNyw0OT
-E4MDMzNDAsLTc1MDcxMzg0OF19
+eyJoaXN0b3J5IjpbMzI2Nzg3Nzg0LC0xNTQ0NjYyMjE3LDQ5MT
+gwMzM0MCwtNzUwNzEzODQ4XX0=
 -->
