@@ -8,7 +8,7 @@ Science
 > **In a laboratory study of liquid antibacterial hand soaps, a concentrated solution of UltraClean produced a 40 percent greater reduction in the bacteria population than did the liquid hand soaps currently used in our hospitals. During a subsequent test of UltraClean at our hospital in Workby, that hospital reported significantly fewer cases of patient infection than did any of the other hospitals in our group. Therefore, to prevent serious patient infections, we should supply UltraClean at all hand-washing stations throughout our hospital system."**
 
     1
-M: report fewer infection
+M: report fewer infection  
 A: UC good -> fewer infection
 P: UC is the only remedy
 S: skillful doctor/advanced equippment/good sanitation
@@ -32,5 +32,5 @@ P: UC is highly dense, others is dilluted/ this highly densed will do harm to sk
 S: same density and same dose
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzNDQwOTMwXX0=
+eyJoaXN0b3J5IjpbLTg4NjgxODg2XX0=
 -->
