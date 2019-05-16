@@ -1,0 +1,35 @@
+arts
+=====================
+7
+-----------------------
+>7
+>**Some people believe that government funding of the arts is necessary to ensure that the arts can flourish and be available to all people. Others believe that government funding of the arts threatens the integrity of the arts.**
+## position: government funding of the arts threatens the integrity of the arts.
+    1 
+1.1 **ancient china**  
+1.1.1 emperor aprropriate every valuable antique as royal collection, it belongs to and only available to royal members  
+1.1.2 discourage the motivation to create masterpiece. even created, cant share, afraid of being appropriated  
+
+1.2 **modern china**   
+if the government is subverted, these artcraft will be plundered  
+ex. the summer palace and the old summer palace
+at the present still not retrieved   
+
+    2
+ 2.1 **totalitarian**  
+government funding -> propoganda -> full of statue, painting and poem that praise the dictator -> mislead others/ deviate from the truth of arts, art serve in purpose, not so pure, lose aesthetic value  
+
+2.2 **capitalism**
+fund -> become industry -> need return -> should be profitable -> the poor cant see -> follow fashion/main stream -> what need professional skill will be diminished ->  cut ordinary people from virtuosity
+extra funding -> extra tax -> public adversion toward arts -> lose interest  
+
+    3 (让步)can be conducive under some circumstances
+3.1 **art school**  
+fund -> get every children equality to learn arts -> help find talented students/ help poor children realize their dream   
+3.2 **museum**  
+no fund -> individual buyer may collect as personal collection -> some artcraft such as calligraphy and painting from the ancient is at a premium  
+3.3 **abroad artcraft**  
+boost cultural diversity, no communication  
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg5OTQyMzE3MV19
+-->
