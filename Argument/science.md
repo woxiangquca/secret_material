@@ -9,28 +9,28 @@ Science
 
     1
 M: report fewer infection  
-A: UC good -> fewer infection
-P: UC is the only remedy
-S: skillful doctor/advanced equippment/good sanitation
+A: UC good -> fewer infection  
+P: UC is the only remedy  
+S: skillful doctor/advanced equippment/good sanitation  
 
     2
-M: W report fewer infection
-A: report fewer -> in fact fewer
-P: W small hospital, not many surgery, not many patient/ hide the truth
+M: W report fewer infection  
+A: report fewer -> in fact fewer  
+P: W small hospital, not many surgery, not many patient/ hide the truth  
 
 
     3
-M: should supply throughout our hospital system
-A: UC kill every kind of bacteria/ there are only one kind of bacteria 
-P: many kind of bacteria that are more strong/ side effect when kill other kind
-S: experiment about UC to evry kind
+M: should supply throughout our hospital system  
+A: UC kill every kind of bacteria/ there are only one kind of bacteria   
+P: many kind of bacteria that are more strong/ side effect when kill other kind  
+S: experiment about UC to evry kind  
 
     4
-M:UC kill more bateria in laboratory
-A: UC is better
-P: UC is highly dense, others is dilluted/ this highly densed will do harm to skin/ UC can do well in pracitical use
-S: same density and same dose
+M:UC kill more bateria in laboratory  
+A: UC is better  
+P: UC is highly dense, others is dilluted/ this highly densed will do harm to skin/ UC can do well in pracitical use  
+S: same density and same dose   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NjgxODg2XX0=
+eyJoaXN0b3J5IjpbLTY3MDU4OTIwMl19
 -->
