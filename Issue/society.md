@@ -14,19 +14,14 @@ make great contribution to civilization of the world, but it is based on the mis
 defeat Nazi, end the war. while it force man in country to  fulfill mandatory military service/ use money to develop advanced weapon, neglect their people is starving
 
     2 leader is powerful that can improve people's welfare
-2.1 **safety/physiological need**
-2.1.1 **military power** 
-keep safe and not be killed by others/ safegaurd our daily safe
-2.1.2 **finacial policy**
-control inflation, price
-2.2 **love and belonging need**
-2.2.1 **museum**
-cutural
-2.2.2 **education** 
-prepare student for skills/ reduce empolyment/ get them to have their own circle
+2.1 **science**
 
+2.2 **artist**
+
+
+    3
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTg4OTg3NiwtMTU0NDY2MjIxNyw0OT
-E4MDMzNDAsLTc1MDcxMzg0OF19
+eyJoaXN0b3J5IjpbNjc2Njk1OTg0LC0xNTQ0NjYyMjE3LDQ5MT
+gwMzM0MCwtNzUwNzEzODQ4XX0=
 -->
