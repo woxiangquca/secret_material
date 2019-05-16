@@ -7,9 +7,10 @@ society
 
 ## position: generally by the achievements of its rulers, artists, or scientists
 
-    1 great nation 
+    1 great nation established by powerful leader often sacrifice the well-being of ordinary people
+1.1 ****
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzk1NTg1MTAsNDkxODAzMzQwLC03NT
-A3MTM4NDhdfQ==
+eyJoaXN0b3J5IjpbMTg3MjMyODIwNCw0OTE4MDMzNDAsLTc1MD
+cxMzg0OF19
 -->
