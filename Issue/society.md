@@ -11,9 +11,9 @@ society
 1.1 **Egypt**  
 make great contribution to civilization of the world, but it is based on the miserable life of hundreds of slaves 
 1.2 **Soviet Union**
-defeat Nazi, end the war. while it is nio
+defeat Nazi, end the war. while it force man in country to  fulfill mandatory
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzQzMDEyMywtMTU0NDY2MjIxNyw0OT
-E4MDMzNDAsLTc1MDcxMzg0OF19
+eyJoaXN0b3J5IjpbNzQwMzk1MTc5LC0xNTQ0NjYyMjE3LDQ5MT
+gwMzM0MCwtNzUwNzEzODQ4XX0=
 -->
