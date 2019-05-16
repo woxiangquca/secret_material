@@ -30,6 +30,13 @@ fund -> get every children equality to learn arts -> help find talented students
 no fund -> individual buyer may collect as personal collection -> some artcraft such as calligraphy and painting from the ancient is at a premium  
 3.3 **abroad artcraft**  
 boost cultural diversity, no communication  
+
+80/88  
+-----------------------  
+>80  
+>**Nations should suspend government funding for the arts when significant numbers of their citizens are hungry or unemployed.**  
+>88
+>****
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTQyMzE3MV19
+eyJoaXN0b3J5IjpbLTI4MjA3MjE0NSwtODk5NDIzMTcxXX0=
 -->
