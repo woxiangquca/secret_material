@@ -32,12 +32,12 @@ usually active and vocal student view instructors as experts who serve up “kno
 rigid expectation： Officials expect fifteen-year-olds to be in the tenth grade and eleventh-graders to score at a certain level on a standardized verbal achievement test. Rarely are exceptionally bright and motivated students permitted to advance more quickly or graduate early. Similarly, poor performers are pushed from grade to grade, doomed to fail year after year.  
 
     5
- **neg**: variety -> free  
+**neg**: variety -> free  
 **pos**:  specilization：Students in middle school and high school learn Spanish from one teacher, receive guidance from another, and are coached in sports by still others. Students shuffle between fifty-minute periods throughout the school day.  
 
     6 the good of restrain
 obey the laws and socail convention  
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTUyOTUwN119
+eyJoaXN0b3J5IjpbOTM3MDEwMjMsMTMyMTUyOTUwN119
 -->
