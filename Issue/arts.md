@@ -42,10 +42,12 @@ Reason: It is inappropriate—and, perhaps, even cruel—to use public resources
     1 pos:
 1.1
 
-    2 neg:culture
+    2 neg: the benefit of funding
 2.1 **museum**
 no fund -> individual buyer may collect as personal collection -> some artcraft such as calligraphy and painting from the ancient is at a premium -> gain unjustified profit and 
+
+    3 neg: art is n
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTMzMjcxMCwtMTI1ODI1MzE4NiwtMT
+eyJoaXN0b3J5IjpbLTMyNzEwOTQ3MCwtMTI1ODI1MzE4NiwtMT
 Y3NTg5MTIwMiwtODk5NDIzMTcxXX0=
 -->
