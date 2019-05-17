@@ -41,16 +41,15 @@ The United Kingdom European Union membership referendum
 the political structure makes the leader sometimes act accroding to public opinion, a mirror of it.
 
     2 neg: leaders' own choice
-2.1 **desire and outlook**
-when the mass hold different opinions to an issue, leaders need to make choice for them
-
+2.1 **compromise and reconcile**
+when the mass hold different opinions to an issue, leaders need to make choice for them(refugee)
 2.2 **controlled by money**
 rising cost of campaign -> leaders seek financial support(In 2008, Barack Obama and John McCain together received and spent more than $1 billion on their presidential campaigns) -> organizations supplying cash to politicians expect to be treated favorably in return -> policies will lean to them
 
     3 neg: leaders' capability
-
+3.1 **desire and outlook**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjAwMzAyOCwtMjkxNjc4MzIwLC0xND
+eyJoaXN0b3J5IjpbMTU5ODQzODE4NywtMjkxNjc4MzIwLC0xND
 c5NTEyMTAzLC0xMDIxMzYzMTAxLC0xMTI1NDAzMzkzLDg0ODY0
 NTExLDQ0NjczNDE4OCwtMTkyNTg0OTk1NV19
 -->
