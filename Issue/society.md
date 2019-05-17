@@ -34,26 +34,26 @@ art -> spiritual need -> museum, concert -> broaden our horizon/expericence exot
 ## postition: agree to a limited extent
 
     1 pos: democracy system require leader to meet demand
-1.1 **election**
-voters will elect whose view squre with themselves (who hate feminist or Afracan American) 
-1.2 **administrative mechanism**
+1.1 **election**  
+voters will elect whose view squre with themselves (who hate feminist or Afracan American)   
+1.2 **administrative mechanism**  
 The United Kingdom European Union membership referendum
-the political structure makes the leader sometimes act accroding to public opinion, a mirror of it.
+the political structure makes the leader sometimes act accroding to public opinion, a mirror of it.  
 
     2 neg: leaders' own choice
-2.1 **compromise and reconcile**
-when the mass hold different opinions to an issue, leaders need to make choice for them(refugee), if not, the society will be in chaos
-2.2 **controlled by money**
-rising cost of campaign -> leaders seek financial support(In 2008, Barack Obama and John McCain together received and spent more than $1 billion on their presidential campaigns) -> organizations supplying cash to politicians expect to be treated favorably in return -> policies will lean to them
+2.1 **compromise and reconcile**  
+when the mass hold different opinions to an issue, leaders need to make choice for them(refugee), if not, the society will be in chaos  
+2.2 **controlled by money**  
+rising cost of campaign -> leaders seek financial support(In 2008, Barack Obama and John McCain together received and spent more than $1 billion on their presidential campaigns) -> organizations supplying cash to politicians expect to be treated favorably in return -> policies will lean to them  
 
     3 neg: leaders' feature
-3.1 **desire and discretion**
-sometimes the ordinary people are dumb/ easily misled by the media or some haters -> claim to do sth bad for the country -> leaders must stop that and show discretion, after all leader have the right to guide the nation
-3.2 **capability**
-only if u are capable, u can be a leader, otherwise， the mass has sharp eyes -> resign or be subverted(Jobs), **chances favours the prepared ones**, not every single person can be a leader.
+3.1 **desire and discretion**  
+sometimes the ordinary people are dumb/ easily misled by the media or some haters -> claim to do sth bad for the country -> leaders must stop that and show discretion, after all leader have the right to guide the nation  
+3.2 **capability**  
+only if u are capable, u can be a leader, otherwise， the mass has sharp eyes -> resign or be subverted(Jobs), **chances favours the prepared ones**, not every single person can be a leader.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwNDE5NTI1LC0yOTE2NzgzMjAsLTE0Nz
-k1MTIxMDMsLTEwMjEzNjMxMDEsLTExMjU0MDMzOTMsODQ4NjQ1
-MTEsNDQ2NzM0MTg4LC0xOTI1ODQ5OTU1XX0=
+eyJoaXN0b3J5IjpbMTI5MjQxMjM1NywtMjkxNjc4MzIwLC0xND
+c5NTEyMTAzLC0xMDIxMzYzMTAxLC0xMTI1NDAzMzkzLDg0ODY0
+NTExLDQ0NjczNDE4OCwtMTkyNTg0OTk1NV19
 -->
