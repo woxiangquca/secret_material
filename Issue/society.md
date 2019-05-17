@@ -44,11 +44,11 @@ the political structure makes the leader sometimes act accroding to public opini
 2.1 **capability and talent**
 
 2.2 **desire and outlook(personal and collective)**
-rising cost of campaign -> leaders seek support from fin
+rising cost of campaign -> leaders seek financial support(In 2008, Barack Obama and John McCain together received and spent more than $1 billion on their presidential campaigns) -> organizations supplying cash to politicians expect to be treated favorably in return -> policies will lean to them
 
     3 neg: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1NjgyMjA5LC0yOTE2NzgzMjAsLTE0Nz
-k1MTIxMDMsLTEwMjEzNjMxMDEsLTExMjU0MDMzOTMsODQ4NjQ1
-MTEsNDQ2NzM0MTg4LC0xOTI1ODQ5OTU1XX0=
+eyJoaXN0b3J5IjpbLTY3OTk3NDE5MiwtMjkxNjc4MzIwLC0xND
+c5NTEyMTAzLC0xMDIxMzYzMTAxLC0xMTI1NDAzMzkzLDg0ODY0
+NTExLDQ0NjczNDE4OCwtMTkyNTg0OTk1NV19
 -->
