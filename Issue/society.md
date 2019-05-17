@@ -40,13 +40,15 @@ voters will elect whose view squre with themselves (who hate feminist or Afracan
 The United Kingdom European Union membership referendum
 the political structure makes the leader sometimes act accroding to public opinion, a mirror of it.
 
-    2 neg: leaders' themselves(character, desire, outlook, purview)
+    2 neg: leaders' themselves
 2.1 **capability and talent**
-2.2 **desire and outlook()**
 
-    3 neg:
+2.2 **desire and outlook(personal and collective)**
+
+
+    3 neg: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzU0ODM2MTAsLTE0Nzk1MTIxMDMsLT
+eyJoaXN0b3J5IjpbLTEzNTE2MTczMjAsLTE0Nzk1MTIxMDMsLT
 EwMjEzNjMxMDEsLTExMjU0MDMzOTMsODQ4NjQ1MTEsNDQ2NzM0
 MTg4LC0xOTI1ODQ5OTU1XX0=
 -->
