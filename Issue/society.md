@@ -38,13 +38,13 @@ art -> spiritual need -> museum, concert -> broaden our horizon/expericence exot
 voters will elect whose view squre with themselves (who hate feminist or Afracan American) 
 1.2 **administrative mechanism**
 The United Kingdom European Union membership referendum
-the political structure 
+the political structure makes the leader sometimes act accroding to public opinion, a
 
     2 neg:
-2.1
-2.2
+2.1 
+2.2 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTc2NDU4MiwtMTAyMTM2MzEwMSwtMT
-EyNTQwMzM5Myw4NDg2NDUxMSw0NDY3MzQxODgsLTE5MjU4NDk5
-NTVdfQ==
+eyJoaXN0b3J5IjpbLTE0NTQxODYwOTQsLTEwMjEzNjMxMDEsLT
+ExMjU0MDMzOTMsODQ4NjQ1MTEsNDQ2NzM0MTg4LC0xOTI1ODQ5
+OTU1XX0=
 -->
