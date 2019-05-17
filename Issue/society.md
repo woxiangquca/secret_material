@@ -40,7 +40,7 @@ voters will elect whose view squre with themselves (who hate feminist or Afracan
 The United Kingdom European Union membership referendum
 the political structure makes the leader sometimes act accroding to public opinion, a mirror of it.  
 
-    2 neg: leaders' own choice
+    2 neg: leaders need to make choice
 2.1 **compromise and reconcile**  
 when the mass hold different opinions to an issue, leaders need to make choice for them(refugee), if not, the society will be in chaos  
 2.2 **controlled by money**  
@@ -54,7 +54,7 @@ only if u are capable, u can be a leader, otherwise， the mass has sharp eyes -
 **chances favours the prepared ones**, not every single person can be a leader.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwNzg1NTcxLC0yOTE2NzgzMjAsLTE0Nz
+eyJoaXN0b3J5IjpbNzQ5ODU4OTc1LC0yOTE2NzgzMjAsLTE0Nz
 k1MTIxMDMsLTEwMjEzNjMxMDEsLTExMjU0MDMzOTMsODQ4NjQ1
 MTEsNDQ2NzM0MTg4LC0xOTI1ODQ5OTU1XX0=
 -->
