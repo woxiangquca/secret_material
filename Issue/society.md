@@ -48,10 +48,11 @@ rising cost of campaign -> leaders seek financial support(In 2008, Barack Obama 
 
     3 neg: leaders' feature
 3.1 **desire and outlook**
-sometimes the ordinary people are dumb/ easily misled by 
+sometimes the ordinary people are dumb/ easily misled by the media or some haters -> claim to do sth bad for the country -> leaders must stop that and show discretion, after all leader have the right to guide the nation
 3.2 **capability**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzYzMzY4MiwtMjkxNjc4MzIwLC0xND
+eyJoaXN0b3J5IjpbLTIxNjYxMDA3NSwtMjkxNjc4MzIwLC0xND
 c5NTEyMTAzLC0xMDIxMzYzMTAxLC0xMTI1NDAzMzkzLDg0ODY0
 NTExLDQ0NjczNDE4OCwtMTkyNTg0OTk1NV19
 -->
