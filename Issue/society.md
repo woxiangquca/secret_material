@@ -44,11 +44,11 @@ the political structure makes the leader sometimes act accroding to public opini
 2.1 **capability and talent**
 
 2.2 **desire and outlook(personal and collective)**
-
+leaders on behalf of the 
 
     3 neg: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTE2MTczMjAsLTE0Nzk1MTIxMDMsLT
+eyJoaXN0b3J5IjpbLTE1Njg2NDc1MDksLTE0Nzk1MTIxMDMsLT
 EwMjEzNjMxMDEsLTExMjU0MDMzOTMsODQ4NjQ1MTEsNDQ2NzM0
 MTg4LC0xOTI1ODQ5OTU1XX0=
 -->
