@@ -33,9 +33,10 @@ art -> spiritual need -> museum, concert -> broaden our horizon/expericence exot
 
 ## postition: agree to a limited extent
 
-    1 pos: 
-1.1 
+    1 pos: democracy require leader to listen ordinary people
+1.1 vote
+1.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDIxMjk2NiwtMTEyNTQwMzM5Myw4ND
+eyJoaXN0b3J5IjpbMjE0MTAzNjk2OSwtMTEyNTQwMzM5Myw4ND
 g2NDUxMSw0NDY3MzQxODgsLTE5MjU4NDk5NTVdfQ==
 -->
