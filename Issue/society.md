@@ -35,13 +35,14 @@ art -> spiritual need -> museum, concert -> broaden our horizon/expericence exot
 
     1 pos: democracy system require leader to meet demand
 1.1 **election**
-f
+
 1.2 **administrative mechanism**
 
     2 neg:
 2.1
 2.2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjEzNjMxMDEsLTExMjU0MDMzOTMsOD
-Q4NjQ1MTEsNDQ2NzM0MTg4LC0xOTI1ODQ5OTU1XX0=
+eyJoaXN0b3J5IjpbLTc1NDkwODQwNywtMTAyMTM2MzEwMSwtMT
+EyNTQwMzM5Myw4NDg2NDUxMSw0NDY3MzQxODgsLTE5MjU4NDk5
+NTVdfQ==
 -->
