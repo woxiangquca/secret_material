@@ -44,11 +44,11 @@ the political structure makes the leader sometimes act accroding to public opini
 2.1 **capability and talent**
 
 2.2 **desire and outlook(personal and collective)**
-leaders on behalf of the consortia that 
+rising cost of campaign -> leaders seek support from fin
 
     3 neg: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MTY3ODMyMCwtMTQ3OTUxMjEwMywtMT
-AyMTM2MzEwMSwtMTEyNTQwMzM5Myw4NDg2NDUxMSw0NDY3MzQx
-ODgsLTE5MjU4NDk5NTVdfQ==
+eyJoaXN0b3J5IjpbNjM1NjgyMjA5LC0yOTE2NzgzMjAsLTE0Nz
+k1MTIxMDMsLTEwMjEzNjMxMDEsLTExMjU0MDMzOTMsODQ4NjQ1
+MTEsNDQ2NzM0MTg4LC0xOTI1ODQ5OTU1XX0=
 -->
