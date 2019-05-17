@@ -31,8 +31,11 @@ art -> spiritual need -> museum, concert -> broaden our horizon/expericence exot
 >62
 >**Leaders are created by the demands that are placed on them.**  
 
-## postition: 
+## postition: agree to limited extent
+
+    1
+1.1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4NjQ1MTEsNDQ2NzM0MTg4LC0xOTI1OD
-Q5OTU1XX0=
+eyJoaXN0b3J5IjpbLTExMjU0MDMzOTMsODQ4NjQ1MTEsNDQ2Nz
+M0MTg4LC0xOTI1ODQ5OTU1XX0=
 -->
