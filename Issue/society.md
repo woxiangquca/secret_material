@@ -35,14 +35,16 @@ art -> spiritual need -> museum, concert -> broaden our horizon/expericence exot
 
     1 pos: democracy system require leader to meet demand
 1.1 **election**
-voters will elect whose view squre with themselves (wh)
+voters will elect whose view squre with themselves (who hate feminist or Afracan American) 
 1.2 **administrative mechanism**
+The United Kingdom European Union membership referendum
+the political structure 
 
     2 neg:
 2.1
 2.2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1NTE5MzMwLC0xMDIxMzYzMTAxLC0xMT
-I1NDAzMzkzLDg0ODY0NTExLDQ0NjczNDE4OCwtMTkyNTg0OTk1
-NV19
+eyJoaXN0b3J5IjpbMTkzOTc2NDU4MiwtMTAyMTM2MzEwMSwtMT
+EyNTQwMzM5Myw4NDg2NDUxMSw0NDY3MzQxODgsLTE5MjU4NDk5
+NTVdfQ==
 -->
