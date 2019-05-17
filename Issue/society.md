@@ -50,10 +50,11 @@ rising cost of campaign -> leaders seek financial support(In 2008, Barack Obama 
 3.1 **desire and discretion**  
 sometimes the ordinary people are dumb/ easily misled by the media or some haters -> claim to do sth bad for the country -> leaders must stop that and show discretion, after all leader have the right to guide the nation  
 3.2 **capability**  
-only if u are capable, u can be a leader, otherwise， the mass has sharp eyes -> resign or be subverted(Jobs), **chances favours the prepared ones**, not every single person can be a leader.  
+only if u are capable, u can be a leader, otherwise， the mass has sharp eyes -> resign or be subverted(Jobs)  
+**chances favours the prepared ones**, not every single person can be a leader.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MjQxMjM1NywtMjkxNjc4MzIwLC0xND
-c5NTEyMTAzLC0xMDIxMzYzMTAxLC0xMTI1NDAzMzkzLDg0ODY0
-NTExLDQ0NjczNDE4OCwtMTkyNTg0OTk1NV19
+eyJoaXN0b3J5IjpbNzYwNzg1NTcxLC0yOTE2NzgzMjAsLTE0Nz
+k1MTIxMDMsLTEwMjEzNjMxMDEsLTExMjU0MDMzOTMsODQ4NjQ1
+MTEsNDQ2NzM0MTg4LC0xOTI1ODQ5OTU1XX0=
 -->
