@@ -40,15 +40,15 @@ voters will elect whose view squre with themselves (who hate feminist or Afracan
 The United Kingdom European Union membership referendum
 the political structure makes the leader sometimes act accroding to public opinion, a mirror of it.
 
-    2 neg: leaders' themselves
-2.1 **capability and talent**
+    2 neg: leaders need to make choice
+2.1 **desire and outlook**
 
-2.2 **desire and outlook(personal and collective)**
+2.2 ****
 rising cost of campaign -> leaders seek financial support(In 2008, Barack Obama and John McCain together received and spent more than $1 billion on their presidential campaigns) -> organizations supplying cash to politicians expect to be treated favorably in return -> policies will lean to them
 
-    3 neg: 
+    3 neg: leader need to make choices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTk3NDE5MiwtMjkxNjc4MzIwLC0xND
-c5NTEyMTAzLC0xMDIxMzYzMTAxLC0xMTI1NDAzMzkzLDg0ODY0
-NTExLDQ0NjczNDE4OCwtMTkyNTg0OTk1NV19
+eyJoaXN0b3J5IjpbLTIxNDI5NDcwMzQsLTI5MTY3ODMyMCwtMT
+Q3OTUxMjEwMywtMTAyMTM2MzEwMSwtMTEyNTQwMzM5Myw4NDg2
+NDUxMSw0NDY3MzQxODgsLTE5MjU4NDk5NTVdfQ==
 -->
