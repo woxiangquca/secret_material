@@ -24,7 +24,15 @@ art -> spiritual need -> museum, concert -> broaden our horizon/expericence exot
 3.1.1 Asian country like india  
 3.2 **political status**  
 3.2.1 middle afraican women be centered at home, no political rights at all.  
-3.2.2 american politics, the wealth can control the election
+3.2.2 american politics, the wealth can control the election  
+
+62
+-------------------------------------------
+>62
+>**Leaders are created by the demands that are placed on them.**  
+
+## postition: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2NzM0MTg4LC0xOTI1ODQ5OTU1XX0=
+eyJoaXN0b3J5IjpbODQ4NjQ1MTEsNDQ2NzM0MTg4LC0xOTI1OD
+Q5OTU1XX0=
 -->
