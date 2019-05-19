@@ -31,11 +31,11 @@ S: whether consumer has a better place to shop
  >**"WWAC must change from its current rock-music format because the number of listeners has been declining, even though the population in our listening area has been growing. The population growth has resulted mainly from people moving to our area after their retirement, and we must make listeners of these new residents. But they seem to have limited interest in music: several local stores selling recorded music have recently closed. Therefore, just changing to another kind of music is not going to increase our audience. Instead, we should adopt a news-and-talk format, a form of radio that is increasingly popular in our area."**
 
     1
-M:
-A:
-P:
+M: several closed
+A: little insterset for music
+P: tend to listen on-line/ 
 S:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzgwMDcwMTAsMTEwOTA5Mzc1LDE0OD
-kzMDIzNjddfQ==
+eyJoaXN0b3J5IjpbMTY4NTYzODA1OSwtMTM3ODAwNzAxMCwxMT
+A5MDkzNzUsMTQ4OTMwMjM2N119
 -->
