@@ -37,11 +37,17 @@ P: tend to listen on-line/ listen to live/pirated
 S: 
 
     2
+M: people from retirement increse
+A: retirement is majortiy
+P: originally small,  now a few
+S: porpotion
+
+    3
 M: 
 A:
 P:
 S:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjMxMzQzMCwtMTM3ODAwNzAxMCwxMT
+eyJoaXN0b3J5IjpbMTA0OTY5MDMzMSwtMTM3ODAwNzAxMCwxMT
 A5MDkzNzUsMTQ4OTMwMjM2N119
 -->
