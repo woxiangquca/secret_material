@@ -36,10 +36,10 @@ S: survey sulia's effect on human
  "Erosion of beach sand along the shores of Tria Island is a serious threat to our island and our tourist industry. In order to stop the erosion, we should charge people for using the beaches. Although this solution may annoy a few tourists in the short term, it will raise money for replenishing the sand. Replenishing the sand, as was done to protect buildings on the nearby island of Batia, will help protect buildings along our shores, thereby reducing these buildings' risk of additional damage from severe storms. And since beaches and buildings in the area will be preserved, Tria's tourist industry will improve over the long term."**
 
     1
-M:
-A:
-P:
-S:
+M: raise money
+A: more or the same tourist come
+P: piss them off, no income
+S: 
 
     2
 M:
@@ -53,5 +53,6 @@ A:
 P:
 S:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNDUxMTIxNSwxMDUwNTE1NzE5XX0=
+eyJoaXN0b3J5IjpbMTA4MzYwMjI1MiwyMDM0NTExMjE1LDEwNT
+A1MTU3MTldfQ==
 -->
