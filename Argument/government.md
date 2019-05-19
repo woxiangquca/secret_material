@@ -49,10 +49,10 @@ S: B actual successful or not/ B's objective condition
 
     3
 M: preserve the beach -> tourist industry will improve
-A: 
-P:
-S:
+A: beach is the only reason the tourist will come
+P: tourist like other more(service, climate, specialty)
+S: survey what the tourist like
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDc1MDY3NTUsMjAzNDUxMTIxNSwxMD
-UwNTE1NzE5XX0=
+eyJoaXN0b3J5IjpbMjM3NzQxNjM1LDIwMzQ1MTEyMTUsMTA1MD
+UxNTcxOV19
 -->
