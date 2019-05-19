@@ -27,9 +27,9 @@ S: whether consumer has a better place to shop
 17/93
 -------------------------
 >93
->**The following appeared in a memorandum from the manager of WWAC radio station. **
-  **"WWAC must change from its current rock-music format because the number of listeners has been declining, even though the population in our listening area has been growing. The population growth has resulted mainly from people moving to our area after their retirement, and we must make listeners of these new residents. But they seem to have limited interest in music: several local stores selling recorded music have recently closed. Therefore, just changing to another kind of music is not going to increase our audience. Instead, we should adopt a news-and-talk format, a form of radio that is increasingly popular in our area."**
+>**The following appeared in a memorandum from the manager of WWAC radio station.**
+ **"WWAC must change from its current rock-music format because the number of listeners has been declining, even though the population in our listening area has been growing. The population growth has resulted mainly from people moving to our area after their retirement, and we must make listeners of these new residents. But they seem to have limited interest in music: several local stores selling recorded music have recently closed. Therefore, just changing to another kind of music is not going to increase our audience. Instead, we should adopt a news-and-talk format, a form of radio that is increasingly popular in our area."**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NzY4MzQxMiwxMTA5MDkzNzUsMTQ4OT
-MwMjM2N119
+eyJoaXN0b3J5IjpbNDA4ODE3MjY0LDExMDkwOTM3NSwxNDg5Mz
+AyMzY3XX0=
 -->
