@@ -43,9 +43,9 @@ S: estmate how popularity will the beach be
 
     2
 M: B replenish beach -> protect building
-A: T and B is the same, and B s
-P:
-S:
+A: B successful/ B success due to this policy
+P: B is not succesful/ duo to other resons, terrain, weather condition(there is no storm in B)
+S: B actual suc
 
     3
 M:
@@ -53,6 +53,6 @@ A:
 P:
 S:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQ3NDc3OTQsMjAzNDUxMTIxNSwxMD
-UwNTE1NzE5XX0=
+eyJoaXN0b3J5IjpbMTY3ODIwNTQyNiwyMDM0NTExMjE1LDEwNT
+A1MTU3MTldfQ==
 -->
