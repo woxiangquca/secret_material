@@ -39,11 +39,11 @@ S: survey sulia's effect on human
 M: raise money
 A: more or the same tourist come
 P: piss them off, no income
-S: 
+S: estmate how popularity will the beach be
 
     2
-M:
-A:
+M: B replenish beach -> protect building
+A: T and B is the same, and B s
 P:
 S:
 
@@ -53,6 +53,6 @@ A:
 P:
 S:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzYwMjI1MiwyMDM0NTExMjE1LDEwNT
-A1MTU3MTldfQ==
+eyJoaXN0b3J5IjpbLTIwODQ3NDc3OTQsMjAzNDUxMTIxNSwxMD
+UwNTE1NzE5XX0=
 -->
