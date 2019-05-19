@@ -33,9 +33,15 @@ S: whether consumer has a better place to shop
     1
 M: several closed
 A: little insterset for music
-P: tend to listen on-line/ 
+P: tend to listen on-line/ listen to live/pirated
+S: 
+
+    2
+M: 
+A:
+P:
 S:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NTYzODA1OSwtMTM3ODAwNzAxMCwxMT
+eyJoaXN0b3J5IjpbLTUzMjMxMzQzMCwtMTM3ODAwNzAxMCwxMT
 A5MDkzNzUsMTQ4OTMwMjM2N119
 -->
