@@ -46,8 +46,8 @@ S: porpotion
 M: adopt news-and-talk forms
 A: incresingly -> very
 P: original 1%, now 5%
-S: survey absolute number
+S: survey absolute number 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTUwMDE0NywtMTM3ODAwNzAxMCwxMT
+eyJoaXN0b3J5IjpbMTc3OTQwNTYzOSwtMTM3ODAwNzAxMCwxMT
 A5MDkzNzUsMTQ4OTMwMjM2N119
 -->
