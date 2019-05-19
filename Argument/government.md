@@ -28,6 +28,12 @@ M: few healthiest eat sulia
 A: sulia is unhealthy  
 P: sulia is health but is costly/ there is a substitue for sulia  
 S: survey sulia's effect on human  
-<!--stackedit_data:  
-eyJoaXN0b3J5IjpbMTA1MDUxNTcxOV19  
+
+42
+----------------
+>42
+>* The following is a letter to the head of the tourism bureau on the island of Tria.  
+ "Erosion of beach sand along the shores of Tria Island is a serious threat to our island and our tourist industry. In order to stop the erosion, we should charge people for using the beaches. Although this solution may annoy a few tourists in the short term, it will raise money for replenishing the sand. Replenishing the sand, as was done to protect buildings on the nearby island of Batia, will help protect buildings along our shores, thereby reducing these buildings' risk of additional damage from severe storms. And since beaches and buildings in the area will be preserved, Tria's tourist industry will improve over the long term."
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwOTY2NDIxMTAsMTA1MDUxNTcxOV19
 -->
