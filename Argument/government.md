@@ -45,14 +45,14 @@ S: estmate how popularity will the beach be
 M: B replenish beach -> protect building
 A: B successful/ B success due to this policy
 P: B is not succesful/ duo to other resons, terrain, weather condition(there is no storm in B)
-S: B actual suc
+S: B actual successful or not/ B's objective condition
 
     3
-M:
-A:
+M: preserve the beach -> tourist industry will improve
+A: 
 P:
 S:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODIwNTQyNiwyMDM0NTExMjE1LDEwNT
-A1MTU3MTldfQ==
+eyJoaXN0b3J5IjpbLTE2NDc1MDY3NTUsMjAzNDUxMTIxNSwxMD
+UwNTE1NzE5XX0=
 -->
