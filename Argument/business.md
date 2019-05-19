@@ -9,7 +9,7 @@ business
     1
 M:skateboaid user up -> decrese in business
 A:no other reason; owner's word is reliable
-P:poor management of the shop; economical crisis; more online-shopping
+P:poor management of the shop; economical crisis; more online-shopping/another plaza
 S: the overall sales record; customer's preference
 
     2
@@ -24,5 +24,5 @@ A: prohibit -> plaza return to high level
 P: plaza is renowned for skateboard/ skateboard has make the plaza unpopular, only stakeboarder there
 S: whether consumer has a better place to shop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4OTMwMjM2N119
+eyJoaXN0b3J5IjpbMTEwOTA5Mzc1LDE0ODkzMDIzNjddfQ==
 -->
