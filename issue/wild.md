@@ -15,9 +15,10 @@ wild
 
     2:disagree because food cycle
 2.1 **good conditions: forest **
+
 2.2 **extreme conditions: frozan land and dessert**
-only consist of very few species, if dont protect, the whole ecosystem will collapse.
+only consist of very few species, if dont protect, its predator will vanish and so do its predatoe of its predator
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNDI4MjY0NCwxODc5OTg5MjY5XX0=
+eyJoaXN0b3J5IjpbNzg4MzE5MDc5LDE4Nzk5ODkyNjldfQ==
 -->
