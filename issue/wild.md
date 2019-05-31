@@ -6,8 +6,12 @@ wild
 
 ## POSITION: disagree
     1:agree because limited resource
-   1.1 **natural selection**
-
+1.1 **natural selection**
+1.1.1 ****
+1.1.2 ****
+1.2 **limited resource**
+1.2.1 **food**
+1.2.2 **shelter**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjA3MjA3MzIsMTg3OTk4OTI2OV19
+eyJoaXN0b3J5IjpbLTY5NDI0NjAyMiwxODc5OTg5MjY5XX0=
 -->
