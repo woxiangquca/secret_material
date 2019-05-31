@@ -10,8 +10,8 @@ wild
 1.1.1 
 1.1.2 
 1.2 **limited resource** panda
-1.2.1 food is at a premium, not easy to find food for them
+1.2.1 food is distinctive, not easy to find food for them
 1.2.2 shelter is at a premium, not to mention human
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNjg1Mzk4OSwxODc5OTg5MjY5XX0=
+eyJoaXN0b3J5IjpbMTI4NDAyOTQ4NCwxODc5OTg5MjY5XX0=
 -->
