@@ -7,11 +7,11 @@ wild
 ## POSITION: disagree
     1:agree because limited resource
 1.1 **natural selection** 
-1.1.1 
-1.1.2 
+1.1.1 predator white moth in Manchester
+1.1.2 giraffe lack of food
 1.2 **limited resource** panda
 1.2.1 food is distinctive, not easy to find food for them
 1.2.2 shelter is at a premium, not to mention human
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDAyOTQ4NCwxODc5OTg5MjY5XX0=
+eyJoaXN0b3J5IjpbMTg4MjUzODI1NywxODc5OTg5MjY5XX0=
 -->
