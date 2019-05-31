@@ -15,10 +15,12 @@ wild
 
     2:disagree because food cycle
 2.1 **good conditions: forest **
-if protect-> the thing that
+if protect-> the thing that it prey at will be stable
+green algea will g
 2.2 **extreme conditions: frozan land and dessert**
 only consist of very few species, if dont protect, its predator will vanish and so do its predatoe of its predator
+chain reaction
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQwMDc5MzQsMTg3OTk4OTI2OV19
+eyJoaXN0b3J5IjpbMjMxNDUzNzg2LDE4Nzk5ODkyNjldfQ==
 -->
