@@ -14,9 +14,10 @@ wild
 1.2.2 shelter is at a premium, not to mention human
 
     2:disagree because food cycle
-2.1 ****
-2.2 **extreme conditions**
+2.1 **good conditions: forest **
+2.2 **extreme conditions: frozan land and dessert**
+only consist of very few species, if dont protect, the whole ecosystem will collapse.
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTE4ODE4NjAsMTg3OTk4OTI2OV19
+eyJoaXN0b3J5IjpbMTYzNDI4MjY0NCwxODc5OTg5MjY5XX0=
 -->
