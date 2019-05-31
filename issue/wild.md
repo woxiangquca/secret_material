@@ -6,8 +6,8 @@ wild
 
 ## POSITION: disagree
     1:agree because limited resource
-   1.1 **
+   1.1 **natural selection**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NjU3MjUzNSwxODc5OTg5MjY5XX0=
+eyJoaXN0b3J5IjpbLTE3MjA3MjA3MzIsMTg3OTk4OTI2OV19
 -->
