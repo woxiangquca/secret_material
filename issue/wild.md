@@ -14,8 +14,9 @@ wild
 1.2.2 shelter is at a premium, not to mention human
 
     2:disagree because food cycle
-2.1 
+2.1 ****
+2.2 **extreme conditions**
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NzQ4OTMxNiwxODc5OTg5MjY5XX0=
+eyJoaXN0b3J5IjpbLTEwNTE4ODE4NjAsMTg3OTk4OTI2OV19
 -->
