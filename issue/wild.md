@@ -15,10 +15,10 @@ wild
 
     2:disagree because food cycle
 2.1 **good conditions: forest **
-
+if protect-> the thing that
 2.2 **extreme conditions: frozan land and dessert**
 only consist of very few species, if dont protect, its predator will vanish and so do its predatoe of its predator
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4MzE5MDc5LDE4Nzk5ODkyNjldfQ==
+eyJoaXN0b3J5IjpbLTExNTQwMDc5MzQsMTg3OTk4OTI2OV19
 -->
