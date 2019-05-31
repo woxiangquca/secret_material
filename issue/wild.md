@@ -6,8 +6,8 @@ wild
 
 ## POSITION: disagree
     1:agree because limited resource
-   
+   1.1 **
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjM2ODIyNywxODc5OTg5MjY5XX0=
+eyJoaXN0b3J5IjpbMTE2NjU3MjUzNSwxODc5OTg5MjY5XX0=
 -->
