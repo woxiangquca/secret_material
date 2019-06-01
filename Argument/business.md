@@ -53,9 +53,10 @@ S: survey absolute number
 >**The following is a recommendation from the personnel director to the president of Acme Publishing Company.
 "Many other companies have recently stated that having their employees take the Easy Read Speed-Reading Course has greatly improved productivity. One graduate of the course was able to read a 500-page report in only two hours; another graduate rose from an assistant manager to vice president of the company in under a year. Obviously, the faster you can read, the more information you can absorb in a single workday. Moreover, Easy Read would cost Acme only $500 per employee—a small price to pay when you consider the benefits. Included in this fee is a three-week seminar in Spruce City and a lifelong subscription to the Easy Read newsletter. Clearly, Acme would benefit greatly by requiring all of our employees to take the Easy Read course."**
 
+    1
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDU1MzY0OCwtMTc0MjEyMzM5MSwxNz
+eyJoaXN0b3J5IjpbLTU2NDI1MjI4NywtMTc0MjEyMzM5MSwxNz
 c5NDA1NjM5LC0xMzc4MDA3MDEwLDExMDkwOTM3NSwxNDg5MzAy
 MzY3XX0=
 -->
