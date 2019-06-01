@@ -40,14 +40,20 @@ S: same density and same dose
 M: 1975 and 2002
 A: studies under same condition
 P: 1975 is more professional and comprehensive/ take place in which and when aphibian is likely to show up/ 02 come from tourists
-S:
+S: detailed information about two
 
     2
-M: Trout was introduc
+M: Trout was introduced
+A: to eat eggs
+P: two species are not in the same place/ Trout has die out/ Trout find a new prey
+S: find Trout quantity and eating habit
+
+    3
+M: 
 A:
 P:
 S:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzI3ODM4MDksLTY3MDU4OTIwMl19
+eyJoaXN0b3J5IjpbLTExMTgyNTEwNTUsLTY3MDU4OTIwMl19
 -->
