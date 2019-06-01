@@ -49,11 +49,11 @@ P: two species are not in the same place/ Trout has die out/ Trout find a new pr
 S: find Trout quantity and eating habit
 
     3
-M: 
-A:
-P:
+M: decline
+A: Trout eat egg
+P: other reason like environment/ predator/ pollution/ lack of food/ disease
 S:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTgyNTEwNTUsLTY3MDU4OTIwMl19
+eyJoaXN0b3J5IjpbMzc1OTQxMzQ1LC02NzA1ODkyMDJdfQ==
 -->
