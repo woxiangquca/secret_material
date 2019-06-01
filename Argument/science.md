@@ -37,7 +37,11 @@ S: same density and same dose
 "Two studies of amphibians in Xanadu National Park confirm a significant decline in the numbers of amphibians. In 1975 there were seven species of amphibians in the park, and there were abundant numbers of each species. However, in 2002 only four species of amphibians were observed in the park, and the numbers of each species were drastically reduced. One proposed explanation is that the decline was caused by the introduction of trout into the park's waters, which began in 1975. (Trout are known to eat amphibian eggs.)"**
 
     1
+M: 1975 and 2002
+A: studies under same condition
+P: 1975 is more professional and comprehensive/ take place in which aphi
+S:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQ1NjA1MjUsLTY3MDU4OTIwMl19
+eyJoaXN0b3J5IjpbLTYwMTQxNjU5LC02NzA1ODkyMDJdfQ==
 -->
