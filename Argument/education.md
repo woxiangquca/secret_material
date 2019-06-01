@@ -41,7 +41,10 @@ P: P is wealthy but propotion is lower than B/ B has spend lots of money before
 S: detailed budget plan
 
     3
-M:
+M: value
+A: gov more budget -> resident value
+P: P's mayor like education/ B' resident value, but B dont care
+S
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzIwNTA2NDEsLTIwOTY1NTg0OV19
+eyJoaXN0b3J5IjpbNDg2ODMxNzUsLTIwOTY1NTg0OV19
 -->
