@@ -44,7 +44,7 @@ S: detailed budget plan
 M: value
 A: gov more budget -> resident value
 P: P's mayor like education/ B' resident value, but B dont care
-S
+S: questionnaire
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg2ODMxNzUsLTIwOTY1NTg0OV19
+eyJoaXN0b3J5IjpbMTA4ODQwMjczNiwtMjA5NjU1ODQ5XX0=
 -->
