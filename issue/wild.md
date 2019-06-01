@@ -6,7 +6,7 @@ wild
 
 ## POSITION: disagree
     1:agree because limited resource
-1.1 **natural selection**   
+1.1 **natural selection- we cant save them all**   
 1.1.1 predator white moth in Manchester  
 1.1.2 short giraffe lack of food  
 1.2 **limited resource** panda  
@@ -30,6 +30,6 @@ chain reaction
  
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjU0MzM0MCwyOTIyODI2ODksMTg3OT
-k4OTI2OV19
+eyJoaXN0b3J5IjpbNzQ1MzI3NTc5LDI5MjI4MjY4OSwxODc5OT
+g5MjY5XX0=
 -->
