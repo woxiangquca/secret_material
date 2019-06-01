@@ -36,11 +36,12 @@ S:
 
     2
 M: twice
-A: o
-P: 
-S:
+A: overall tax same
+P: P is wealthy but propotion is lower than B/ B has spend lots of money before
+S: detailed budget plan
 
-
+    3
+M:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5Mzg2MTg2LC0yMDk2NTU4NDldfQ==
+eyJoaXN0b3J5IjpbLTE4MzIwNTA2NDEsLTIwOTY1NTg0OV19
 -->
