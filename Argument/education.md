@@ -29,12 +29,16 @@ S:
 "In our region of Trillura, the majority of money spent on the schools that most students attend—the city-run public schools—comes from taxes that each city government collects. The region's cities differ, however, in the budgetary priority they give to public education. For example, both as a proportion of its overall tax revenues and in absolute terms, Parson City has recently spent almost twice as much per year as Blue City has for its public schools—even though both cities have about the same number of residents. Clearly, Parson City residents place a higher value on providing a good education in public schools than Blue City residents do."**
 
     1
- M:
- A:
- P:
+ M: same number of resident
+ A: same student
+ P: Parson has more student and schools
  S:
+
+    2
+M:
+A
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzgyMzQ0LC0yMDk2NTU4NDldfQ==
+eyJoaXN0b3J5IjpbLTQwODc0NzM3MCwtMjA5NjU1ODQ5XX0=
 -->
