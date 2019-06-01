@@ -65,11 +65,16 @@ A:reliable
 P: advertisement
 
     3
-M: A 500 page
+M: A 500 page/B rose
 A: no other reason
-P: originally high/ simple task/ 
+P: originally high/ simple task/ poor quality / other realationship /  do well in other aspects
+
+    4
+M: A
+A:
+P:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxNDg0OTg1LC01NjQyNTIyODcsLTE3ND
-IxMjMzOTEsMTc3OTQwNTYzOSwtMTM3ODAwNzAxMCwxMTA5MDkz
-NzUsMTQ4OTMwMjM2N119
+eyJoaXN0b3J5IjpbLTExNzIzMzE4MDksLTU2NDI1MjI4NywtMT
+c0MjEyMzM5MSwxNzc5NDA1NjM5LC0xMzc4MDA3MDEwLDExMDkw
+OTM3NSwxNDg5MzAyMzY3XX0=
 -->
