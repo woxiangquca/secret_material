@@ -39,9 +39,15 @@ S: same density and same dose
     1
 M: 1975 and 2002
 A: studies under same condition
-P: 1975 is more professional and comprehensive/ take place in which aphi
+P: 1975 is more professional and comprehensive/ take place in which and when aphibian is likely to show up/ 02 come from tourists
+S:
+
+    2
+M: Trout was introduc
+A:
+P:
 S:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTQxNjU5LC02NzA1ODkyMDJdfQ==
+eyJoaXN0b3J5IjpbLTEwMzI3ODM4MDksLTY3MDU4OTIwMl19
 -->
