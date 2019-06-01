@@ -60,10 +60,16 @@ P: what if it no benefits most
 S:
 
     2
-M:many other company
-A: 
+M: Many other company
+A:reliable
+P: advertisement
+
+    3
+M: A 500 page
+A: no other reason
+P: originally high/ simple task/ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjMwOTM1MjYsLTU2NDI1MjI4NywtMT
-c0MjEyMzM5MSwxNzc5NDA1NjM5LC0xMzc4MDA3MDEwLDExMDkw
-OTM3NSwxNDg5MzAyMzY3XX0=
+eyJoaXN0b3J5IjpbMjIxNDg0OTg1LC01NjQyNTIyODcsLTE3ND
+IxMjMzOTEsMTc3OTQwNTYzOSwtMTM3ODAwNzAxMCwxMTA5MDkz
+NzUsMTQ4OTMwMjM2N119
 -->
