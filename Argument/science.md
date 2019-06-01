@@ -31,6 +31,12 @@ A: UC is better
 P: UC is highly dense, others is dilluted/ this highly densed will do harm to skin/ UC can do well in pracitical use  
 S: same density and same dose   
 
+83/84
+----------------------------
+>**The following is a letter to the editor of an environmental magazine. 
+"Two studies of amphibians in Xanadu National Park confirm a significant decline in the numbers of amphibians. In 1975 there were seven species of amphibians in the park, and there were abundant numbers of each species. However, in 2002 only four species of amphibians were observed in the park, and the numbers of each species were drastically reduced. One proposed explanation is that the decline was caused by the introduction of trout into the park's waters, which began in 1975. (Trout are known to eat amphibian eggs.)"**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDU4OTIwMl19
+eyJoaXN0b3J5IjpbLTIwMDcyMzI4OTgsLTY3MDU4OTIwMl19
 -->
