@@ -59,17 +59,17 @@ only if u are capable, u can be a leader, otherwise， the mass has sharp eyes -
 
 ## position: disagree
     1 pos: some subject 
-1.1 **need special skills and knowledge**  
+1.1 **need special skills, knowledge and experience**  
 quantum physics 
 1.2 **need specific tools and condition**
 observe panda -> study pandas's lifestyle
 chemistry-> based on experiment
 
     2 neg: sometimes u need to deal with people
-
+2.1 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzk0MzkxNjAsNzE5ODQxMjQ0LDc0OT
-g1ODk3NSwtMjkxNjc4MzIwLC0xNDc5NTEyMTAzLC0xMDIxMzYz
-MTAxLC0xMTI1NDAzMzkzLDg0ODY0NTExLDQ0NjczNDE4OCwtMT
-kyNTg0OTk1NV19
+eyJoaXN0b3J5IjpbLTM2NTQ0MTkxMSwtMTg3OTQzOTE2MCw3MT
+k4NDEyNDQsNzQ5ODU4OTc1LC0yOTE2NzgzMjAsLTE0Nzk1MTIx
+MDMsLTEwMjEzNjMxMDEsLTExMjU0MDMzOTMsODQ4NjQ1MTEsND
+Q2NzM0MTg4LC0xOTI1ODQ5OTU1XX0=
 -->
