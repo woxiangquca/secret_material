@@ -74,11 +74,13 @@ chemistry-> based on experiment
 不适合的广告 小孩广告->色情暴力->产品卖不出去
 
     3 neg: interdispline
-3.1 
+3.1 **depend on**
+cs depend on ath
+3.2 **exchange ideas**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODAxMjQxMCwtMTg3OTQzOTE2MCw3MT
-k4NDEyNDQsNzQ5ODU4OTc1LC0yOTE2NzgzMjAsLTE0Nzk1MTIx
-MDMsLTEwMjEzNjMxMDEsLTExMjU0MDMzOTMsODQ4NjQ1MTEsND
-Q2NzM0MTg4LC0xOTI1ODQ5OTU1XX0=
+eyJoaXN0b3J5IjpbMTk5MjUxNzk1LC0xODc5NDM5MTYwLDcxOT
+g0MTI0NCw3NDk4NTg5NzUsLTI5MTY3ODMyMCwtMTQ3OTUxMjEw
+MywtMTAyMTM2MzEwMSwtMTEyNTQwMzM5Myw4NDg2NDUxMSw0ND
+Y3MzQxODgsLTE5MjU4NDk5NTVdfQ==
 -->
