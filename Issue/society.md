@@ -86,11 +86,13 @@ planners feel could be better used for modern
 purposes, modern development**
 
 ## position: disagree
-     1 pos:
+     1 pos:inevitable and sometimes necessary
+1.1 **of little importance**
+1.2 **safety loophole**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3MTcxNzkyLC0xMjU1NDAzNTMxLDY0MT
-A3NTc0LC0xODc5NDM5MTYwLDcxOTg0MTI0NCw3NDk4NTg5NzUs
-LTI5MTY3ODMyMCwtMTQ3OTUxMjEwMywtMTAyMTM2MzEwMSwtMT
-EyNTQwMzM5Myw4NDg2NDUxMSw0NDY3MzQxODgsLTE5MjU4NDk5
-NTVdfQ==
+eyJoaXN0b3J5IjpbMTE5OTM1MTE1NywtMTI1NTQwMzUzMSw2ND
+EwNzU3NCwtMTg3OTQzOTE2MCw3MTk4NDEyNDQsNzQ5ODU4OTc1
+LC0yOTE2NzgzMjAsLTE0Nzk1MTIxMDMsLTEwMjEzNjMxMDEsLT
+ExMjU0MDMzOTMsODQ4NjQ1MTEsNDQ2NzM0MTg4LC0xOTI1ODQ5
+OTU1XX0=
 -->
