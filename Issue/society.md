@@ -65,10 +65,10 @@ quantum physics
 observe panda -> study pandas's lifestyle
 chemistry-> based on experiment
 
-    2 neg: sometimes u 
+    2 neg: sometimes u need to deal with people
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTU3Mzk3MjAsNzE5ODQxMjQ0LDc0OT
+eyJoaXN0b3J5IjpbLTE4Nzk0MzkxNjAsNzE5ODQxMjQ0LDc0OT
 g1ODk3NSwtMjkxNjc4MzIwLC0xNDc5NTEyMTAzLC0xMDIxMzYz
 MTAxLC0xMTI1NDAzMzkzLDg0ODY0NTExLDQ0NjczNDE4OCwtMT
 kyNTg0OTk1NV19
