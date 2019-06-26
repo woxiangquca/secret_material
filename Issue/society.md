@@ -103,9 +103,11 @@ pragmatic value
 3.1 **give old buidings modern function**
 tourism
 education for children
-3.2 ****
+3.2 **tear down some old building selectively**
+homogenous in style or location
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODY3NDMxNSwtMTQxMzIxNjc0MywtMT
+eyJoaXN0b3J5IjpbLTg2NjY3MzY4NSwtMTQxMzIxNjc0MywtMT
 I1NTQwMzUzMSw2NDEwNzU3NCwtMTg3OTQzOTE2MCw3MTk4NDEy
 NDQsNzQ5ODU4OTc1LC0yOTE2NzgzMjAsLTE0Nzk1MTIxMDMsLT
 EwMjEzNjMxMDEsLTExMjU0MDMzOTMsODQ4NjQ1MTEsNDQ2NzM0
