@@ -99,13 +99,15 @@ we can learn history
 2.2 **aesthetic and architecture**
 pragmatic value 
 
-    3 neg: we can reconcile
-3.1 **tourism**
+    3 neg: we can compromise
+3.1 **give old buidings modern function**
+tourism
+education for children
 3.2 ****
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTMyMTY3NDMsLTEyNTU0MDM1MzEsNj
-QxMDc1NzQsLTE4Nzk0MzkxNjAsNzE5ODQxMjQ0LDc0OTg1ODk3
-NSwtMjkxNjc4MzIwLC0xNDc5NTEyMTAzLC0xMDIxMzYzMTAxLC
-0xMTI1NDAzMzkzLDg0ODY0NTExLDQ0NjczNDE4OCwtMTkyNTg0
-OTk1NV19
+eyJoaXN0b3J5IjpbMTAzODY3NDMxNSwtMTQxMzIxNjc0MywtMT
+I1NTQwMzUzMSw2NDEwNzU3NCwtMTg3OTQzOTE2MCw3MTk4NDEy
+NDQsNzQ5ODU4OTc1LC0yOTE2NzgzMjAsLTE0Nzk1MTIxMDMsLT
+EwMjEzNjMxMDEsLTExMjU0MDMzOTMsODQ4NjQ1MTEsNDQ2NzM0
+MTg4LC0xOTI1ODQ5OTU1XX0=
 -->
