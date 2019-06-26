@@ -73,8 +73,60 @@ P: originally high/ simple task/ poor quality / other realationship /  do well i
 M: all to attend class
 A: all work is related to read
 P: 
+
+81
+-----
+>**The following appeared in a business magazine.   
+"As a result of numerous complaints of dizziness and nausea on the part of consumers of Promofoods tuna, the company requested that eight million cans of its tuna be returned for testing. Promofoods concluded that the canned tuna did not, after all, pose a health risk. This conclusion is based on tests performed on samples of the recalled cans by chemists from Promofoods; the chemists found that of the eight food chemicals most commonly blamed for causing symptoms of dizziness and nausea, five were not found in any of the tested cans. The chemists did find small amounts of the three remaining suspected chemicals but pointed out that these occur naturally in all canned foods."**
+
+    1
+M: by chemists from P
+A: their word is reliable
+P: they are telling lies in order to defend theselves
+S: fair, disinterested  report
+
+    2
+M: return 8miliioin cans
+A: it can represent all
+P: different loads
+S:
+
+    3
+M: small amount and others also have
+A: it wont cause disease
+P: small but fatal/ far more than others
+S: exact amount
+
+    4
+M: five not found
+A: no other toxic stuff
+P: some undiscovered
+S: thorough test
+
+33
+------
+>**The following appeared in a memorandum from the planning department of an electric power company.  
+"Several recent surveys indicate that home owners are increasingly eager to conserve energy. At the same time, manufacturers are now marketing many home appliances, such as refrigerators and air conditioners, that are almost twice as energy efficient as those sold a decade ago. Also, new technologies for better home insulation and passive solar heating are readily available to reduce the energy needed for home heating. Therefore, the total demand for electricity in our area will not increase—and may decline slightly. Since our three electric generating plants in operation for the past twenty years have always met our needs, construction of new generating plants will not be necessary."**
+
+    1
+M: eager to save energy + efficient appliance
+A: people will buy
+P: expensive/not willing to change
+S: shopping tendency/ income level
+
+    2
+M: demand not increase
+A: use appliance will cause that
+P: mainly from many factories or companies/ population/longer using time
+S:
+
+    3
+M: new plant not necessary
+A: met our need
+P: population increase/ plant get old/accident
+S:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDAzNDYwMDQsLTU2NDI1MjI4NywtMT
-c0MjEyMzM5MSwxNzc5NDA1NjM5LC0xMzc4MDA3MDEwLDExMDkw
-OTM3NSwxNDg5MzAyMzY3XX0=
+eyJoaXN0b3J5IjpbNDczNTkxMDQwLC01NjQyNTIyODcsLTE3ND
+IxMjMzOTEsMTc3OTQwNTYzOSwtMTM3ODAwNzAxMCwxMTA5MDkz
+NzUsMTQ4OTMwMjM2N119
 -->
