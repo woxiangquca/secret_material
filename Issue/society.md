@@ -70,10 +70,13 @@ chemistry-> based on experiment
 记者->报道->深入基层，了解最底层人民的疾苦，让社会感
 动->好评->坚持
 有人觉得CPI跟生活不符->调整CPI算法
-2.2 **advertising -> designed to appeal to ** 
+2.2 **advertising -> designed to appeal to the mass**
+不适合的广告 小孩广告->色情暴力->产品卖不出去
+
+    3 neg: interdispline
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1Mjc1ODM1MywtMTg3OTQzOTE2MCw3MT
+eyJoaXN0b3J5IjpbLTQ4Mjg1ODk0MiwtMTg3OTQzOTE2MCw3MT
 k4NDEyNDQsNzQ5ODU4OTc1LC0yOTE2NzgzMjAsLTE0Nzk1MTIx
 MDMsLTEwMjEzNjMxMDEsLTExMjU0MDMzOTMsODQ4NjQ1MTEsND
 Q2NzM0MTg4LC0xOTI1ODQ5OTU1XX0=
