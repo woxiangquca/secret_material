@@ -78,9 +78,17 @@ chemistry-> based on experiment
 every subject depend on math, formula, equation, basic laws
 3.2 **exchange ideas**
 
+
+119
+--------
+>**When old buildings stand on ground that modern
+planners feel could be better used for modern
+purposes, modern development**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxMDc1NzQsLTE4Nzk0MzkxNjAsNzE5OD
-QxMjQ0LDc0OTg1ODk3NSwtMjkxNjc4MzIwLC0xNDc5NTEyMTAz
-LC0xMDIxMzYzMTAxLC0xMTI1NDAzMzkzLDg0ODY0NTExLDQ0Nj
-czNDE4OCwtMTkyNTg0OTk1NV19
+eyJoaXN0b3J5IjpbLTE4MTI5MjA4OTAsNjQxMDc1NzQsLTE4Nz
+k0MzkxNjAsNzE5ODQxMjQ0LDc0OTg1ODk3NSwtMjkxNjc4MzIw
+LC0xNDc5NTEyMTAzLC0xMDIxMzYzMTAxLC0xMTI1NDAzMzkzLD
+g0ODY0NTExLDQ0NjczNDE4OCwtMTkyNTg0OTk1NV19
 -->
