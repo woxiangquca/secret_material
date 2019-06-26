@@ -75,12 +75,12 @@ chemistry-> based on experiment
 
     3 neg: interdispline
 3.1 **depend on**
-cs depend on ath
+every subject depend on math, formula, equation, basic laws
 3.2 **exchange ideas**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MjUxNzk1LC0xODc5NDM5MTYwLDcxOT
-g0MTI0NCw3NDk4NTg5NzUsLTI5MTY3ODMyMCwtMTQ3OTUxMjEw
-MywtMTAyMTM2MzEwMSwtMTEyNTQwMzM5Myw4NDg2NDUxMSw0ND
-Y3MzQxODgsLTE5MjU4NDk5NTVdfQ==
+eyJoaXN0b3J5IjpbNjQxMDc1NzQsLTE4Nzk0MzkxNjAsNzE5OD
+QxMjQ0LDc0OTg1ODk3NSwtMjkxNjc4MzIwLC0xNDc5NTEyMTAz
+LC0xMDIxMzYzMTAxLC0xMTI1NDAzMzkzLDg0ODY0NTExLDQ0Nj
+czNDE4OCwtMTkyNTg0OTk1NV19
 -->
