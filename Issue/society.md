@@ -58,12 +58,13 @@ only if u are capable, u can be a leader, otherwise， the mass has sharp eyes -
 >**Critical judgment of work in any given field has little value unless it comes from someone who is an expert in that field.**
 
 ## position: disagree
-
+    1 pos: some subject 
+1.1 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjY5NDgxOTIsNzE5ODQxMjQ0LDc0OT
-g1ODk3NSwtMjkxNjc4MzIwLC0xNDc5NTEyMTAzLC0xMDIxMzYz
-MTAxLC0xMTI1NDAzMzkzLDg0ODY0NTExLDQ0NjczNDE4OCwtMT
-kyNTg0OTk1NV19
+eyJoaXN0b3J5IjpbLTE2MzE1MDE5NSw3MTk4NDEyNDQsNzQ5OD
+U4OTc1LC0yOTE2NzgzMjAsLTE0Nzk1MTIxMDMsLTEwMjEzNjMx
+MDEsLTExMjU0MDMzOTMsODQ4NjQ1MTEsNDQ2NzM0MTg4LC0xOT
+I1ODQ5OTU1XX0=
 -->
