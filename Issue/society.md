@@ -87,12 +87,16 @@ purposes, modern development**
 
 ## position: disagree
      1 pos:inevitable and sometimes necessary
-1.1 **of little importance**
+1.1 **for city's better development**
+located in wrong place or just not important itself
+defensive wall
 1.2 **safety loophole**
+
+    2 neg: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5OTM1MTE1NywtMTI1NTQwMzUzMSw2ND
-EwNzU3NCwtMTg3OTQzOTE2MCw3MTk4NDEyNDQsNzQ5ODU4OTc1
-LC0yOTE2NzgzMjAsLTE0Nzk1MTIxMDMsLTEwMjEzNjMxMDEsLT
-ExMjU0MDMzOTMsODQ4NjQ1MTEsNDQ2NzM0MTg4LC0xOTI1ODQ5
-OTU1XX0=
+eyJoaXN0b3J5IjpbLTEzMTQwOTkxOTYsLTEyNTU0MDM1MzEsNj
+QxMDc1NzQsLTE4Nzk0MzkxNjAsNzE5ODQxMjQ0LDc0OTg1ODk3
+NSwtMjkxNjc4MzIwLC0xNDc5NTEyMTAzLC0xMDIxMzYzMTAxLC
+0xMTI1NDAzMzkzLDg0ODY0NTExLDQ0NjczNDE4OCwtMTkyNTg0
+OTk1NV19
 -->
