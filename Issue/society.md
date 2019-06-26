@@ -94,11 +94,14 @@ defensive wall
 
     2 neg: value in old buildings
 2.1 **living fossil(history and culture)**
+cannot easil restored
+we can learn history
 2.2 **aesthetic and architecture**
+pragmatic value 
 
-3
+    3 neg: we can reconcile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDAxMTE0MywtMTI1NTQwMzUzMSw2ND
+eyJoaXN0b3J5IjpbMTA2NDQ2NTkzNywtMTI1NTQwMzUzMSw2ND
 EwNzU3NCwtMTg3OTQzOTE2MCw3MTk4NDEyNDQsNzQ5ODU4OTc1
 LC0yOTE2NzgzMjAsLTE0Nzk1MTIxMDMsLTEwMjEzNjMxMDEsLT
 ExMjU0MDMzOTMsODQ4NjQ1MTEsNDQ2NzM0MTg4LC0xOTI1ODQ5
