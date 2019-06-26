@@ -53,8 +53,12 @@ sometimes the ordinary people are dumb/ easily misled by the media or some hater
 only if u are capable, u can be a leader, otherwise， the mass has sharp eyes -> resign or be subverted(Jobs)  
 **chances favours the prepared ones**, not every single person can be a leader.  
 
+110
+---------
+>Critical judgment of work in any given field has little value unless it comes from someone who is an expert in that field.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5ODU4OTc1LC0yOTE2NzgzMjAsLTE0Nz
-k1MTIxMDMsLTEwMjEzNjMxMDEsLTExMjU0MDMzOTMsODQ4NjQ1
-MTEsNDQ2NzM0MTg4LC0xOTI1ODQ5OTU1XX0=
+eyJoaXN0b3J5IjpbMzcyMTQzMTM5LDc0OTg1ODk3NSwtMjkxNj
+c4MzIwLC0xNDc5NTEyMTAzLC0xMDIxMzYzMTAxLC0xMTI1NDAz
+MzkzLDg0ODY0NTExLDQ0NjczNDE4OCwtMTkyNTg0OTk1NV19
 -->
