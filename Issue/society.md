@@ -59,11 +59,14 @@ only if u are capable, u can be a leader, otherwise， the mass has sharp eyes -
 
 ## position: disagree
     1 pos: some subject 
-1.1 
+1.1 **need special skills and knowledge**  
+
+1.2 **need specific tools and condition**
+study pandas's
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzE1MDE5NSw3MTk4NDEyNDQsNzQ5OD
+eyJoaXN0b3J5IjpbMTM5MzU4NDU4OSw3MTk4NDEyNDQsNzQ5OD
 U4OTc1LC0yOTE2NzgzMjAsLTE0Nzk1MTIxMDMsLTEwMjEzNjMx
 MDEsLTExMjU0MDMzOTMsODQ4NjQ1MTEsNDQ2NzM0MTg4LC0xOT
 I1ODQ5OTU1XX0=
