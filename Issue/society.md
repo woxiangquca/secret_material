@@ -85,10 +85,12 @@ every subject depend on math, formula, equation, basic laws
 planners feel could be better used for modern
 purposes, modern development**
 
-## position:
+## position: disagree
+     1 pos:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTU0MDM1MzEsNjQxMDc1NzQsLTE4Nz
-k0MzkxNjAsNzE5ODQxMjQ0LDc0OTg1ODk3NSwtMjkxNjc4MzIw
-LC0xNDc5NTEyMTAzLC0xMDIxMzYzMTAxLC0xMTI1NDAzMzkzLD
-g0ODY0NTExLDQ0NjczNDE4OCwtMTkyNTg0OTk1NV19
+eyJoaXN0b3J5IjpbMzY3MTcxNzkyLC0xMjU1NDAzNTMxLDY0MT
+A3NTc0LC0xODc5NDM5MTYwLDcxOTg0MTI0NCw3NDk4NTg5NzUs
+LTI5MTY3ODMyMCwtMTQ3OTUxMjEwMywtMTAyMTM2MzEwMSwtMT
+EyNTQwMzM5Myw4NDg2NDUxMSw0NDY3MzQxODgsLTE5MjU4NDk5
+NTVdfQ==
 -->
