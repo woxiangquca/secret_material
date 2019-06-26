@@ -66,9 +66,12 @@ observe panda -> study pandas's lifestyle
 chemistry-> based on experiment
 
     2 neg: sometimes u need to deal with people
-2.1 
+2.1 **journalist/survey/questionaire**
+记者->报道->深入基层，了解最底层人民的疾苦，让社会感
+动->好评->坚持
+2.2 **advertising**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTQ0MTkxMSwtMTg3OTQzOTE2MCw3MT
+eyJoaXN0b3J5IjpbLTQxMzA2MTg4MywtMTg3OTQzOTE2MCw3MT
 k4NDEyNDQsNzQ5ODU4OTc1LC0yOTE2NzgzMjAsLTE0Nzk1MTIx
 MDMsLTEwMjEzNjMxMDEsLTExMjU0MDMzOTMsODQ4NjQ1MTEsND
 Q2NzM0MTg4LC0xOTI1ODQ5OTU1XX0=
