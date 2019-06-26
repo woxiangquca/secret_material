@@ -54,6 +54,27 @@ A: Trout eat egg
 P: other reason like environment/ predator/ pollution/ lack of food/ disease
 S:
 
+85
+---
+>**In a study of the reading habits of Waymarsh citizens conducted by the University of Waymarsh, most respondents said that they preferred literary classics as reading material. However, a second study conducted by the same researchers found that the type of book most frequently checked out of each of the public libraries in Waymarsh was the mystery novel. Therefore, it can be concluded that the respondents in the first study had misrepresented their reading habits.**
+
+    1
+M: most prefer literary
+A: most of the city do so
+P: first study conducted in book store/school
+S:
+
+    2
+M: second most check out mystery novel
+A: the city like mn
+P:many people own a literaray classics instead of borrowing/ it is less common in library/many mn, people are curious
+S:
+
+    3
+M: misrepresent
+A:
+P: mystery novel not contradict with literary classic
+S:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1OTQxMzQ1LC02NzA1ODkyMDJdfQ==
+eyJoaXN0b3J5IjpbLTIwNzY5NzAyMjYsLTY3MDU4OTIwMl19
 -->
