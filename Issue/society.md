@@ -55,10 +55,12 @@ only if u are capable, u can be a leader, otherwise， the mass has sharp eyes -
 
 110
 ---------
->Critical judgment of work in any given field has little value unless it comes from someone who is an expert in that field.
+>**Critical judgment of work in any given field has little value unless it comes from someone who is an expert in that field.**
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyMTQzMTM5LDc0OTg1ODk3NSwtMjkxNj
-c4MzIwLC0xNDc5NTEyMTAzLC0xMDIxMzYzMTAxLC0xMTI1NDAz
-MzkzLDg0ODY0NTExLDQ0NjczNDE4OCwtMTkyNTg0OTk1NV19
+eyJoaXN0b3J5IjpbLTE4NzI2ODc3OTEsNzQ5ODU4OTc1LC0yOT
+E2NzgzMjAsLTE0Nzk1MTIxMDMsLTEwMjEzNjMxMDEsLTExMjU0
+MDMzOTMsODQ4NjQ1MTEsNDQ2NzM0MTg4LC0xOTI1ODQ5OTU1XX
+0=
 -->
