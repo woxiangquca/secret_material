@@ -92,11 +92,12 @@ located in wrong place or just not important itself
 defensive wall
 1.2 **safety loophole**
 
-    2 neg: 
+    2 neg: value in old buildings
+2.1 ****
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQwOTkxOTYsLTEyNTU0MDM1MzEsNj
-QxMDc1NzQsLTE4Nzk0MzkxNjAsNzE5ODQxMjQ0LDc0OTg1ODk3
-NSwtMjkxNjc4MzIwLC0xNDc5NTEyMTAzLC0xMDIxMzYzMTAxLC
-0xMTI1NDAzMzkzLDg0ODY0NTExLDQ0NjczNDE4OCwtMTkyNTg0
-OTk1NV19
+eyJoaXN0b3J5IjpbLTI2ODIyMjM1NSwtMTI1NTQwMzUzMSw2ND
+EwNzU3NCwtMTg3OTQzOTE2MCw3MTk4NDEyNDQsNzQ5ODU4OTc1
+LC0yOTE2NzgzMjAsLTE0Nzk1MTIxMDMsLTEwMjEzNjMxMDEsLT
+ExMjU0MDMzOTMsODQ4NjQ1MTEsNDQ2NzM0MTg4LC0xOTI1ODQ5
+OTU1XX0=
 -->
