@@ -111,12 +111,14 @@ homogenous in style or location
 >**In this age of intensive media coverage, it is no longer possible for a society to regard any living man or woman as a hero.**
 
 ## position: disagree
+    
+    1 pos: media is powerful and can sometimes
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3NDk5MTQ4LC0yMzQ5NTU0MTgsLTg2Nj
-Y3MzY4NSwtMTQxMzIxNjc0MywtMTI1NTQwMzUzMSw2NDEwNzU3
-NCwtMTg3OTQzOTE2MCw3MTk4NDEyNDQsNzQ5ODU4OTc1LC0yOT
-E2NzgzMjAsLTE0Nzk1MTIxMDMsLTEwMjEzNjMxMDEsLTExMjU0
-MDMzOTMsODQ4NjQ1MTEsNDQ2NzM0MTg4LC0xOTI1ODQ5OTU1XX
-0=
+eyJoaXN0b3J5IjpbLTMyNjc2NjQ4OCwtMjM0OTU1NDE4LC04Nj
+Y2NzM2ODUsLTE0MTMyMTY3NDMsLTEyNTU0MDM1MzEsNjQxMDc1
+NzQsLTE4Nzk0MzkxNjAsNzE5ODQxMjQ0LDc0OTg1ODk3NSwtMj
+kxNjc4MzIwLC0xNDc5NTEyMTAzLC0xMDIxMzYzMTAxLC0xMTI1
+NDAzMzkzLDg0ODY0NTExLDQ0NjczNDE4OCwtMTkyNTg0OTk1NV
+19
 -->
