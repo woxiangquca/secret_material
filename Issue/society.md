@@ -112,13 +112,14 @@ homogenous in style or location
 
 ## position: disagree
     
-    1 pos: media is powerful and can sometimes
+    1 pos: media is powerful and can sometimes uncover the truth
+    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjc2NjQ4OCwtMjM0OTU1NDE4LC04Nj
-Y2NzM2ODUsLTE0MTMyMTY3NDMsLTEyNTU0MDM1MzEsNjQxMDc1
-NzQsLTE4Nzk0MzkxNjAsNzE5ODQxMjQ0LDc0OTg1ODk3NSwtMj
-kxNjc4MzIwLC0xNDc5NTEyMTAzLC0xMDIxMzYzMTAxLC0xMTI1
-NDAzMzkzLDg0ODY0NTExLDQ0NjczNDE4OCwtMTkyNTg0OTk1NV
-19
+eyJoaXN0b3J5IjpbLTU5NTExOTM5NiwtMzI2NzY2NDg4LC0yMz
+Q5NTU0MTgsLTg2NjY3MzY4NSwtMTQxMzIxNjc0MywtMTI1NTQw
+MzUzMSw2NDEwNzU3NCwtMTg3OTQzOTE2MCw3MTk4NDEyNDQsNz
+Q5ODU4OTc1LC0yOTE2NzgzMjAsLTE0Nzk1MTIxMDMsLTEwMjEz
+NjMxMDEsLTExMjU0MDMzOTMsODQ4NjQ1MTEsNDQ2NzM0MTg4LC
+0xOTI1ODQ5OTU1XX0=
 -->
