@@ -113,10 +113,10 @@ homogenous in style or location
 ## position: disagree
     
     1 pos: media is powerful and can sometimes uncover the truth
-    
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTExOTM5NiwtMzI2NzY2NDg4LC0yMz
+eyJoaXN0b3J5IjpbLTM2MTU5MTU4OCwtMzI2NzY2NDg4LC0yMz
 Q5NTU0MTgsLTg2NjY3MzY4NSwtMTQxMzIxNjc0MywtMTI1NTQw
 MzUzMSw2NDEwNzU3NCwtMTg3OTQzOTE2MCw3MTk4NDEyNDQsNz
 Q5ODU4OTc1LC0yOTE2NzgzMjAsLTE0Nzk1MTIxMDMsLTEwMjEz
