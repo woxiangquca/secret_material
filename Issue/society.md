@@ -114,11 +114,13 @@ homogenous in style or location
     
     1 pos: media is powerful and can sometimes uncover the truth
 
-    2 neg: medi
+    2 neg: media can do bad things
+
+    3 neg: people can do things 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MTg2NzI3OSwtMzYxNTkxNTg4LC0zMj
+eyJoaXN0b3J5IjpbLTczNzQwODgxMSwtMzYxNTkxNTg4LC0zMj
 Y3NjY0ODgsLTIzNDk1NTQxOCwtODY2NjczNjg1LC0xNDEzMjE2
 NzQzLC0xMjU1NDAzNTMxLDY0MTA3NTc0LC0xODc5NDM5MTYwLD
 cxOTg0MTI0NCw3NDk4NTg5NzUsLTI5MTY3ODMyMCwtMTQ3OTUx
