@@ -110,12 +110,13 @@ homogenous in style or location
 ---------------------
 >**In this age of intensive media coverage, it is no longer possible for a society to regard any living man or woman as a hero.**
 
-## position:
+## position: disagree
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDk1NTQxOCwtODY2NjczNjg1LC0xND
-EzMjE2NzQzLC0xMjU1NDAzNTMxLDY0MTA3NTc0LC0xODc5NDM5
-MTYwLDcxOTg0MTI0NCw3NDk4NTg5NzUsLTI5MTY3ODMyMCwtMT
-Q3OTUxMjEwMywtMTAyMTM2MzEwMSwtMTEyNTQwMzM5Myw4NDg2
-NDUxMSw0NDY3MzQxODgsLTE5MjU4NDk5NTVdfQ==
+eyJoaXN0b3J5IjpbNjI3NDk5MTQ4LC0yMzQ5NTU0MTgsLTg2Nj
+Y3MzY4NSwtMTQxMzIxNjc0MywtMTI1NTQwMzUzMSw2NDEwNzU3
+NCwtMTg3OTQzOTE2MCw3MTk4NDEyNDQsNzQ5ODU4OTc1LC0yOT
+E2NzgzMjAsLTE0Nzk1MTIxMDMsLTEwMjEzNjMxMDEsLTExMjU0
+MDMzOTMsODQ4NjQ1MTEsNDQ2NzM0MTg4LC0xOTI1ODQ5OTU1XX
+0=
 -->
