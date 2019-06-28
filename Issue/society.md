@@ -113,7 +113,9 @@ homogenous in style or location
 ## position: disagree
     
     1 pos: media can sometimes uncover the truth
-1.1
+1.1 **some journalist have conscious**
+they do field trips, and 
+1.2 ****
 
     2 neg: media can do bad things
 2.1 **make up some scandal**
@@ -128,7 +130,7 @@ homogenous in style or location
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODA3MjkyMiwtMzYxNTkxNTg4LC0zMj
+eyJoaXN0b3J5IjpbLTg3OTI4NTUxMCwtMzYxNTkxNTg4LC0zMj
 Y3NjY0ODgsLTIzNDk1NTQxOCwtODY2NjczNjg1LC0xNDEzMjE2
 NzQzLC0xMjU1NDAzNTMxLDY0MTA3NTc0LC0xODc5NDM5MTYwLD
 cxOTg0MTI0NCw3NDk4NTg5NzUsLTI5MTY3ODMyMCwtMTQ3OTUx
