@@ -115,16 +115,17 @@ homogenous in style or location
     1 pos: media is powerful and can sometimes uncover the truth
 
     2 neg: media can do bad things
-2.1 ****
+2.1 **make up some scandal**
+2.2 **collect some scandal by illegal means**
 
     3 neg: people cannot easily be fooled
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDc1NzU3NzYsLTM2MTU5MTU4OCwtMz
-I2NzY2NDg4LC0yMzQ5NTU0MTgsLTg2NjY3MzY4NSwtMTQxMzIx
-Njc0MywtMTI1NTQwMzUzMSw2NDEwNzU3NCwtMTg3OTQzOTE2MC
-w3MTk4NDEyNDQsNzQ5ODU4OTc1LC0yOTE2NzgzMjAsLTE0Nzk1
-MTIxMDMsLTEwMjEzNjMxMDEsLTExMjU0MDMzOTMsODQ4NjQ1MT
-EsNDQ2NzM0MTg4LC0xOTI1ODQ5OTU1XX0=
+eyJoaXN0b3J5IjpbMzIyMTQ4NTk0LC0zNjE1OTE1ODgsLTMyNj
+c2NjQ4OCwtMjM0OTU1NDE4LC04NjY2NzM2ODUsLTE0MTMyMTY3
+NDMsLTEyNTU0MDM1MzEsNjQxMDc1NzQsLTE4Nzk0MzkxNjAsNz
+E5ODQxMjQ0LDc0OTg1ODk3NSwtMjkxNjc4MzIwLC0xNDc5NTEy
+MTAzLC0xMDIxMzYzMTAxLC0xMTI1NDAzMzkzLDg0ODY0NTExLD
+Q0NjczNDE4OCwtMTkyNTg0OTk1NV19
 -->
