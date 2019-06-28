@@ -122,13 +122,13 @@ homogenous in style or location
     3 neg: may have no impact on the mass
  3.1 **true hero are pedestrian**
  they do actual things that can not be disdained
- firefighter mother policeman everyone
+ firefighter mother policeman everyone that does well in their job
  3.2 **we are not credulous**
  aware that media may serve a purpose
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5ODM2NTQ5LC0zNjE1OTE1ODgsLTMyNj
+eyJoaXN0b3J5IjpbOTM4NTI5MzE3LC0zNjE1OTE1ODgsLTMyNj
 c2NjQ4OCwtMjM0OTU1NDE4LC04NjY2NzM2ODUsLTE0MTMyMTY3
 NDMsLTEyNTU0MDM1MzEsNjQxMDc1NzQsLTE4Nzk0MzkxNjAsNz
 E5ODQxMjQ0LDc0OTg1ODk3NSwtMjkxNjc4MzIwLC0xNDc5NTEy
