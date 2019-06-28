@@ -106,10 +106,16 @@ education for children
 3.2 **tear down some old building selectively**
 homogenous in style or location
 
+75
+---------------------
+>**In this age of intensive media coverage, it is no longer possible for a society to regard any living man or woman as a hero.**
+
+#
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjY3MzY4NSwtMTQxMzIxNjc0MywtMT
-I1NTQwMzUzMSw2NDEwNzU3NCwtMTg3OTQzOTE2MCw3MTk4NDEy
-NDQsNzQ5ODU4OTc1LC0yOTE2NzgzMjAsLTE0Nzk1MTIxMDMsLT
-EwMjEzNjMxMDEsLTExMjU0MDMzOTMsODQ4NjQ1MTEsNDQ2NzM0
-MTg4LC0xOTI1ODQ5OTU1XX0=
+eyJoaXN0b3J5IjpbNzA1MDI4MDU0LC04NjY2NzM2ODUsLTE0MT
+MyMTY3NDMsLTEyNTU0MDM1MzEsNjQxMDc1NzQsLTE4Nzk0Mzkx
+NjAsNzE5ODQxMjQ0LDc0OTg1ODk3NSwtMjkxNjc4MzIwLC0xND
+c5NTEyMTAzLC0xMDIxMzYzMTAxLC0xMTI1NDAzMzkzLDg0ODY0
+NTExLDQ0NjczNDE4OCwtMTkyNTg0OTk1NV19
 -->
