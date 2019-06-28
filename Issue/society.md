@@ -114,15 +114,18 @@ homogenous in style or location
     
     1 pos: media is powerful and can sometimes uncover the truth
 
+
     2 neg: media can do bad things
 2.1 **make up some scandal**
 2.2 **collect some scandal by illegal means**
-
-    3 neg: people cannot easily be fooled
+conclusion: their claim are not so effective as to 煽动群众
+    
+    3 neg: their effect may not
+ 3.1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIyMTQ4NTk0LC0zNjE1OTE1ODgsLTMyNj
+eyJoaXN0b3J5IjpbNTcxNjQwNzkwLC0zNjE1OTE1ODgsLTMyNj
 c2NjQ4OCwtMjM0OTU1NDE4LC04NjY2NzM2ODUsLTE0MTMyMTY3
 NDMsLTEyNTU0MDM1MzEsNjQxMDc1NzQsLTE4Nzk0MzkxNjAsNz
 E5ODQxMjQ0LDc0OTg1ODk3NSwtMjkxNjc4MzIwLC0xNDc5NTEy
