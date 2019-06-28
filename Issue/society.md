@@ -114,7 +114,8 @@ homogenous in style or location
     
     1 pos: media can sometimes uncover the truth
 1.1 **some journalist have conscious**
-they do field trips
+they do field trips and real survey
+no conceal
 1.2 ****
 
     2 neg: media can do bad things
@@ -130,7 +131,7 @@ they do field trips
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MjM5NTgxMSwtMzYxNTkxNTg4LC0zMj
+eyJoaXN0b3J5IjpbMTE1MDk4MDYyNiwtMzYxNTkxNTg4LC0zMj
 Y3NjY0ODgsLTIzNDk1NTQxOCwtODY2NjczNjg1LC0xNDEzMjE2
 NzQzLC0xMjU1NDAzNTMxLDY0MTA3NTc0LC0xODc5NDM5MTYwLD
 cxOTg0MTI0NCw3NDk4NTg5NzUsLTI5MTY3ODMyMCwtMTQ3OTUx
