@@ -112,8 +112,8 @@ homogenous in style or location
 
 ## position: disagree
     
-    1 pos: media is powerful and can sometimes uncover the truth
-
+    1 pos: media can sometimes uncover the truth
+1.1
 
     2 neg: media can do bad things
 2.1 **make up some scandal**
@@ -128,10 +128,10 @@ homogenous in style or location
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4NTI5MzE3LC0zNjE1OTE1ODgsLTMyNj
-c2NjQ4OCwtMjM0OTU1NDE4LC04NjY2NzM2ODUsLTE0MTMyMTY3
-NDMsLTEyNTU0MDM1MzEsNjQxMDc1NzQsLTE4Nzk0MzkxNjAsNz
-E5ODQxMjQ0LDc0OTg1ODk3NSwtMjkxNjc4MzIwLC0xNDc5NTEy
-MTAzLC0xMDIxMzYzMTAxLC0xMTI1NDAzMzkzLDg0ODY0NTExLD
-Q0NjczNDE4OCwtMTkyNTg0OTk1NV19
+eyJoaXN0b3J5IjpbLTE3ODA3MjkyMiwtMzYxNTkxNTg4LC0zMj
+Y3NjY0ODgsLTIzNDk1NTQxOCwtODY2NjczNjg1LC0xNDEzMjE2
+NzQzLC0xMjU1NDAzNTMxLDY0MTA3NTc0LC0xODc5NDM5MTYwLD
+cxOTg0MTI0NCw3NDk4NTg5NzUsLTI5MTY3ODMyMCwtMTQ3OTUx
+MjEwMywtMTAyMTM2MzEwMSwtMTEyNTQwMzM5Myw4NDg2NDUxMS
+w0NDY3MzQxODgsLTE5MjU4NDk5NTVdfQ==
 -->
