@@ -116,11 +116,11 @@ homogenous in style or location
 
     2 neg: media can do bad things
 
-    3 neg: people can do things 
+    3 neg: people cannot easily be fooled
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzQwODgxMSwtMzYxNTkxNTg4LC0zMj
+eyJoaXN0b3J5IjpbMjAyNjk2MjM3MSwtMzYxNTkxNTg4LC0zMj
 Y3NjY0ODgsLTIzNDk1NTQxOCwtODY2NjczNjg1LC0xNDEzMjE2
 NzQzLC0xMjU1NDAzNTMxLDY0MTA3NTc0LC0xODc5NDM5MTYwLD
 cxOTg0MTI0NCw3NDk4NTg5NzUsLTI5MTY3ODMyMCwtMTQ3OTUx
